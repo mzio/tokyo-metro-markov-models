@@ -1,291 +1,291 @@
-,id,latitude,line_id,line_name,longitude,name,next_0_name,next_1_name
-0,2800101,35.710733,28001,Tokyo Metro Ginza Line,139.797592,Asakusa,,Tahara-cho
-1,2800102,35.709897,28001,Tokyo Metro Ginza Line,139.790897,Tahara-cho,Asakusa,Inaricho
-2,2800103,35.711273,28001,Tokyo Metro Ginza Line,139.782593,Inaricho,Tahara-cho,Ueno
-3,2800104,35.711482,28001,Tokyo Metro Ginza Line,139.777122,Ueno,Inaricho,Ueno Hirokoji
-4,2800105,35.70768,28001,Tokyo Metro Ginza Line,139.772877,Ueno Hirokoji,Ueno,Suehiro cho
-5,2800106,35.702972,28001,Tokyo Metro Ginza Line,139.771713,Suehiro cho,Ueno Hirokoji,Kanda
-6,2800107,35.693587,28001,Tokyo Metro Ginza Line,139.770899,Kanda,Suehiro cho,Before Mitsukoshi
-7,2800108,35.687101,28001,Tokyo Metro Ginza Line,139.773594,Before Mitsukoshi,Kanda,Nihonbashi
-8,2800109,35.682078,28001,Tokyo Metro Ginza Line,139.773516,Nihonbashi,Before Mitsukoshi,Kyobashi
-9,2800110,35.676856,28001,Tokyo Metro Ginza Line,139.770126,Kyobashi,Nihonbashi,Ginza
-10,2800111,35.671988999999996,28001,Tokyo Metro Ginza Line,139.763965,Ginza,Kyobashi,Shimbashi
-11,2800112,35.667434,28001,Tokyo Metro Ginza Line,139.758432,Shimbashi,Ginza,Toranomon
-12,2800113,35.670236,28001,Tokyo Metro Ginza Line,139.749832,Toranomon,Shimbashi,Tameike San
-13,2800114,35.673621,28001,Tokyo Metro Ginza Line,139.741419,Tameike San,Toranomon,Akasaka Mitsuke
-14,2800115,35.677021,28001,Tokyo Metro Ginza Line,139.737047,Akasaka Mitsuke,Tameike San,Aoyama 1-chome
-15,2800116,35.672765,28001,Tokyo Metro Ginza Line,139.724159,Aoyama 1-chome,Akasaka Mitsuke,Gaienmae front
-16,2800117,35.670527,28001,Tokyo Metro Ginza Line,139.717857,Gaienmae front,Aoyama 1-chome,Omotesando
-17,2800118,35.665247,28001,Tokyo Metro Ginza Line,139.712314,Omotesando,Gaienmae front,Shibuya
-18,2800119,35.659066,28001,Tokyo Metro Ginza Line,139.701,Shibuya,Omotesando,
-19,2800201,35.730256,28002,Tokyo Metro Marunouchi Line,139.711086,Ikebukuro,,Shin-Otsuka
-20,2800202,35.72569,28002,Tokyo Metro Marunouchi Line,139.729971,Shin-Otsuka,Ikebukuro,Yodoya
-21,2800203,35.716989,28002,Tokyo Metro Marunouchi Line,139.737184,Yodoya,Shin-Otsuka,Korakuen
-22,2800204,35.707898,28002,Tokyo Metro Marunouchi Line,139.751864,Korakuen,Yodoya,Hongo 3-chome
-23,2800205,35.706671,28002,Tokyo Metro Marunouchi Line,139.759914,Hongo 3-chome,Korakuen,Ochanomizu
-24,2800206,35.700614,28002,Tokyo Metro Marunouchi Line,139.763952,Ochanomizu,Hongo 3-chome,Awaji-cho
-25,2800207,35.695434,28002,Tokyo Metro Marunouchi Line,139.767575,Awaji-cho,Ochanomizu,Otemachi
-26,2800208,35.686564,28002,Tokyo Metro Marunouchi Line,139.7662,Otemachi,Awaji-cho,Tokyo
-27,2800209,35.681753,28002,Tokyo Metro Marunouchi Line,139.764708,Tokyo,Otemachi,Ginza
-28,2800210,35.671988999999996,28002,Tokyo Metro Marunouchi Line,139.763965,Ginza,Tokyo,Kasumigaseki
-29,2800211,35.673838,28002,Tokyo Metro Marunouchi Line,139.750899,Kasumigaseki,Ginza,In front of the National Assembly building
-30,2800212,35.67393,28002,Tokyo Metro Marunouchi Line,139.745219,In front of the National Assembly building,Kasumigaseki,Akasaka Mitsuke
-31,2800213,35.677021,28002,Tokyo Metro Marunouchi Line,139.737047,Akasaka Mitsuke,In front of the National Assembly building,Yotsuya
-32,2800214,35.684586,28002,Tokyo Metro Marunouchi Line,139.729947,Yotsuya,Akasaka Mitsuke,Yotsuya 3-chome
-33,2800215,35.687958,28002,Tokyo Metro Marunouchi Line,139.720103,Yotsuya 3-chome,Yotsuya,Shinjuku Gyoenmae front
-34,2800216,35.688588,28002,Tokyo Metro Marunouchi Line,139.71069,Shinjuku Gyoenmae front,Yotsuya 3-chome,Shinjuku 3-chome
-35,2800217,35.690847,28002,Tokyo Metro Marunouchi Line,139.704895,Shinjuku 3-chome,Shinjuku Gyoenmae front,Shinjuku
-36,2800218,35.69235,28002,Tokyo Metro Marunouchi Line,139.700711,Shinjuku,Shinjuku 3-chome,Nishi Shinjuku
-37,2800219,35.694298,28002,Tokyo Metro Marunouchi Line,139.692778,Nishi Shinjuku,Shinjuku,Nakanozaka
-38,2800220,35.69792,28002,Tokyo Metro Marunouchi Line,139.68291,Nakanozaka,Nishi Shinjuku,Shin Nakano
-39,2800221,35.697491,28002,Tokyo Metro Marunouchi Line,139.66903,Shin Nakano,Nakanozaka,Higashi Koenji
-40,2800222,35.697802,28002,Tokyo Metro Marunouchi Line,139.657822,Higashi Koenji,Shin Nakano,Shin Koenji
-41,2800223,35.697985,28002,Tokyo Metro Marunouchi Line,139.648068,Shin Koenji,Higashi Koenji,Minami Asagaya
-42,2800224,35.699624,28002,Tokyo Metro Marunouchi Line,139.63576,Minami Asagaya,Shin Koenji,Ogikubo
-43,2800225,35.704304,28002,Tokyo Metro Marunouchi Line,139.620116,Ogikubo,Minami Asagaya,Nakano Shimbashi
-44,2800226,35.692123,28002,Tokyo Metro Marunouchi Line,139.67399699999999,Nakano Shimbashi,Ogikubo,Nakano Fujimi cho
-45,2800227,35.690514,28002,Tokyo Metro Marunouchi Line,139.666933,Nakano Fujimi cho,Nakano Shimbashi,Honancho
-46,2800228,35.683496,28002,Tokyo Metro Marunouchi Line,139.656498,Honancho,Nakano Fujimi cho,
-47,2800301,35.748916,28003,Tokyo Metro Hibiya Line,139.804276,Kita Senju,,Minami-senju
-48,2800302,35.733398,28003,Tokyo Metro Hibiya Line,139.799273,Minami-senju,Kita Senju,Minowa
-49,2800303,35.729623,28003,Tokyo Metro Hibiya Line,139.791485,Minowa,Minami-senju,Iriya
-50,2800304,35.719862,28003,Tokyo Metro Hibiya Line,139.783924,Iriya,Minowa,Ueno
-51,2800305,35.711482,28003,Tokyo Metro Hibiya Line,139.777122,Ueno,Iriya,Nakajimachi
-52,2800306,35.706649,28003,Tokyo Metro Hibiya Line,139.776138,Nakajimachi,Ueno,Akihabara
-53,2800307,35.698161999999996,28003,Tokyo Metro Hibiya Line,139.775459,Akihabara,Nakajimachi,Kodenma Town
-54,2800308,35.690737,28003,Tokyo Metro Hibiya Line,139.778433,Kodenma Town,Akihabara,Ningyo-cho
-55,2800309,35.686307,28003,Tokyo Metro Hibiya Line,139.782285,Ningyo-cho,Kodenma Town,Kayabacho
-56,2800310,35.679752,28003,Tokyo Metro Hibiya Line,139.780005,Kayabacho,Ningyo-cho,Hatchobori
-57,2800311,35.674851,28003,Tokyo Metro Hibiya Line,139.776982,Hatchobori,Kayabacho,Tsukiji
-58,2800312,35.668115,28003,Tokyo Metro Hibiya Line,139.772603,Tsukiji,Hatchobori,Higashi Ginza
-59,2800313,35.669464,28003,Tokyo Metro Hibiya Line,139.767253,Higashi Ginza,Tsukiji,Ginza
-60,2800314,35.671988999999996,28003,Tokyo Metro Hibiya Line,139.763965,Ginza,Higashi Ginza,Hibiya
-61,2800315,35.67459,28003,Tokyo Metro Hibiya Line,139.76017,Hibiya,Ginza,Kasumigaseki
-62,2800316,35.673838,28003,Tokyo Metro Hibiya Line,139.750899,Kasumigaseki,Hibiya,Kamiyacho
-63,2800317,35.662978,28003,Tokyo Metro Hibiya Line,139.745069,Kamiyacho,Kasumigaseki,Roppongi
-64,2800318,35.662836,28003,Tokyo Metro Hibiya Line,139.731443,Roppongi,Kamiyacho,Hiroo
-65,2800319,35.652279,28003,Tokyo Metro Hibiya Line,139.722202,Hiroo,Roppongi,Ebisu
-66,2800320,35.647332,28003,Tokyo Metro Hibiya Line,139.708988,Ebisu,Hiroo,Nakameguro
-67,2800321,35.643854,28003,Tokyo Metro Hibiya Line,139.698621,Nakameguro,Ebisu,
-68,2800401,35.705765,28004,Tokyo Metro Tozai Line,139.665835,Nakano,,Ochiai
-69,2800402,35.710976,28004,Tokyo Metro Tozai Line,139.687284,Ochiai,Nakano,Takadanobaba
-70,2800403,35.713338,28004,Tokyo Metro Tozai Line,139.704745,Takadanobaba,Ochiai,Waseda
-71,2800404,35.705723,28004,Tokyo Metro Tozai Line,139.721319,Waseda,Takadanobaba,Kagurazaka
-72,2800405,35.70379,28004,Tokyo Metro Tozai Line,139.734546,Kagurazaka,Waseda,Iidabashi
-73,2800406,35.701725,28004,Tokyo Metro Tozai Line,139.745986,Iidabashi,Kagurazaka,Kudanshita
-74,2800407,35.695589,28004,Tokyo Metro Tozai Line,139.751948,Kudanshita,Iidabashi,Bamboo bridge
-75,2800408,35.690662,28004,Tokyo Metro Tozai Line,139.756817,Bamboo bridge,Kudanshita,Otemachi
-76,2800409,35.684801,28004,Tokyo Metro Tozai Line,139.766086,Otemachi,Bamboo bridge,Nihonbashi
-77,2800410,35.682078,28004,Tokyo Metro Tozai Line,139.773516,Nihonbashi,Otemachi,Kayabacho
-78,2800411,35.679752,28004,Tokyo Metro Tozai Line,139.780005,Kayabacho,Nihonbashi,Monzenkakarycho
-79,2800412,35.671851,28004,Tokyo Metro Tozai Line,139.796209,Monzenkakarycho,Kayabacho,Kiba
-80,2800413,35.669351,28004,Tokyo Metro Tozai Line,139.807042,Kiba,Monzenkakarycho,Toyocho
-81,2800414,35.669629,28004,Tokyo Metro Tozai Line,139.817596,Toyocho,Kiba,Minami-sen
-82,2800415,35.668796,28004,Tokyo Metro Tozai Line,139.83065,Minami-sen,Toyocho,Nishikasai
-83,2800416,35.664631,28004,Tokyo Metro Tozai Line,139.859259,Nishikasai,Minami-sen,Kasai
-84,2800417,35.663554,28004,Tokyo Metro Tozai Line,139.872458,Kasai,Nishikasai,Urayasu
-85,2800418,35.665932,28004,Tokyo Metro Tozai Line,139.893193,Urayasu,Kasai,Minami kotoku
-86,2800419,35.672687,28004,Tokyo Metro Tozai Line,139.902311,Minami kotoku,Urayasu,Virtue
-87,2800420,35.682686,28004,Tokyo Metro Tozai Line,139.914254,Virtue,Minami kotoku,Mythology
-88,2800421,35.690935,28004,Tokyo Metro Tozai Line,139.924209,Mythology,Virtue,Haruko Nakayama
-89,2800422,35.703517,28004,Tokyo Metro Tozai Line,139.942029,Haruko Nakayama,Mythology,Nishi-Funabashi
-90,2800423,35.707127,28004,Tokyo Metro Tozai Line,139.958972,Nishi-Funabashi,Haruko Nakayama,
-91,2800501,35.777117,28005,Tokyo Metro Chiyoda Line,139.832035,North Ayase,,Ayase
-92,2800502,35.762222,28005,Tokyo Metro Chiyoda Line,139.825019,Ayase,North Ayase,Kita Senju
-93,2800503,35.748916,28005,Tokyo Metro Chiyoda Line,139.804276,Kita Senju,Ayase,Machiya
-94,2800504,35.742733,28005,Tokyo Metro Chiyoda Line,139.780501,Machiya,Kita Senju,Nishi nippori
-95,2800505,35.732257,28005,Tokyo Metro Chiyoda Line,139.766511,Nishi nippori,Machiya,Sengoki
-96,2800506,35.725549,28005,Tokyo Metro Chiyoda Line,139.763243,Sengoki,Nishi nippori,Nezu
-97,2800507,35.7174,28005,Tokyo Metro Chiyoda Line,139.765655,Nezu,Sengoki,Yushima
-98,2800508,35.708243,28005,Tokyo Metro Chiyoda Line,139.769916,Yushima,Nezu,New Ochanomizu
-99,2800509,35.698072,28005,Tokyo Metro Chiyoda Line,139.766014,New Ochanomizu,Yushima,Otemachi
-100,2800510,35.686154,28005,Tokyo Metro Chiyoda Line,139.763399,Otemachi,New Ochanomizu,Front of Nijigyo Bashi
-101,2800511,35.681071,28005,Tokyo Metro Chiyoda Line,139.761948,Front of Nijigyo Bashi,Otemachi,Hibiya
-102,2800512,35.674241,28005,Tokyo Metro Chiyoda Line,139.758732,Hibiya,Front of Nijigyo Bashi,Kasumigaseki
-103,2800513,35.673838,28005,Tokyo Metro Chiyoda Line,139.750899,Kasumigaseki,Hibiya,In front of the National Assembly building
-104,2800514,35.67393,28005,Tokyo Metro Chiyoda Line,139.745219,In front of the National Assembly building,Kasumigaseki,Akasaka
-105,2800515,35.67323,28005,Tokyo Metro Chiyoda Line,139.738348,Akasaka,In front of the National Assembly building,Nogizaka
-106,2800516,35.666572,28005,Tokyo Metro Chiyoda Line,139.726215,Nogizaka,Akasaka,Omotesando
-107,2800517,35.665247,28005,Tokyo Metro Chiyoda Line,139.712314,Omotesando,Nogizaka,Meiji Jingumae <Harajuku>
-108,2800518,35.669071,28005,Tokyo Metro Chiyoda Line,139.703995,Meiji Jingumae <Harajuku>,Omotesando,Yoyogi park
-109,2800519,35.669187,28005,Tokyo Metro Chiyoda Line,139.689099,Yoyogi park,Meiji Jingumae <Harajuku>,Yoyogi Uehara
-110,2800520,35.669159,28005,Tokyo Metro Chiyoda Line,139.680153,Yoyogi Uehara,Yoyogi park,
-111,2800601,35.788507,28006,Tokyo Metro Yurakucho Line,139.612434,Wako-shi,,Subway rise
-112,2800602,35.776557,28006,Tokyo Metro Yurakucho Line,139.631497,Subway rise,Wako-shi,Akatsuka Subway
-113,2800603,35.769939,28006,Tokyo Metro Yurakucho Line,139.644021,Akatsuka Subway,Subway rise,Heiwadai
-114,2800604,35.757863,28006,Tokyo Metro Yurakucho Line,139.653762,Heiwadai,Akatsuka Subway,Iikawadai
-115,2800605,35.74955,28006,Tokyo Metro Yurakucho Line,139.665567,Iikawadai,Heiwadai,Kotakebara
-116,2800606,35.743803,28006,Tokyo Metro Yurakucho Line,139.678572,Kotakebara,Iikawadai,Chikawa
-117,2800607,35.738229,28006,Tokyo Metro Yurakucho Line,139.689271,Chikawa,Kotakebara,Town
-118,2800608,35.73323,28006,Tokyo Metro Yurakucho Line,139.698715,Town,Chikawa,Ikebukuro
-119,2800609,35.729565,28006,Tokyo Metro Yurakucho Line,139.710088,Ikebukuro,Town,Higashi Ikebukuro
-120,2800610,35.725732,28006,Tokyo Metro Yurakucho Line,139.719546,Higashi Ikebukuro,Ikebukuro,Gokoku-ji
-121,2800611,35.719044,28006,Tokyo Metro Yurakucho Line,139.72754,Gokoku-ji,Higashi Ikebukuro,Edogawa Bridge
-122,2800612,35.709495,28006,Tokyo Metro Yurakucho Line,139.733538,Edogawa Bridge,Gokoku-ji,Iidabashi
-123,2800613,35.701934,28006,Tokyo Metro Yurakucho Line,139.743669,Iidabashi,Edogawa Bridge,Ichigaya
-124,2800614,35.691958,28006,Tokyo Metro Yurakucho Line,139.73647,Ichigaya,Iidabashi,Kōjimachi
-125,2800615,35.684006,28006,Tokyo Metro Yurakucho Line,139.737613,Kōjimachi,Ichigaya,Nagatacho
-126,2800616,35.678757,28006,Tokyo Metro Yurakucho Line,139.740258,Nagatacho,Kōjimachi,Sakuradamon
-127,2800617,35.677405,28006,Tokyo Metro Yurakucho Line,139.75149,Sakuradamon,Nagatacho,Yurakucho
-128,2800618,35.675714,28006,Tokyo Metro Yurakucho Line,139.763265,Yurakucho,Sakuradamon,Ginza 1-chome
-129,2800619,35.67435,28006,Tokyo Metro Yurakucho Line,139.767045,Ginza 1-chome,Yurakucho,Shintomi cho
-130,2800620,35.670462,28006,Tokyo Metro Yurakucho Line,139.773711,Shintomi cho,Ginza 1-chome,Tsukishima
-131,2800621,35.664871,28006,Tokyo Metro Yurakucho Line,139.784233,Tsukishima,Shintomi cho,Toyosu
-132,2800622,35.654908,28006,Tokyo Metro Yurakucho Line,139.79621,Toyosu,Tsukishima,Tatsumi
-133,2800623,35.645576,28006,Tokyo Metro Yurakucho Line,139.81052,Tatsumi,Toyosu,Shinkiba
-134,2800624,35.645832,28006,Tokyo Metro Yurakucho Line,139.826254,Shinkiba,Tatsumi,
-135,2800801,35.659066,28008,Tokyo Metro Hanzomon Line,139.701,Shibuya,,Omotesando
-136,2800802,35.665247,28008,Tokyo Metro Hanzomon Line,139.712314,Omotesando,Shibuya,Aoyama 1-chome
-137,2800803,35.672765,28008,Tokyo Metro Hanzomon Line,139.724159,Aoyama 1-chome,Omotesando,Nagatacho
-138,2800804,35.678757,28008,Tokyo Metro Hanzomon Line,139.740258,Nagatacho,Aoyama 1-chome,Hanzomon
-139,2800805,35.685703,28008,Tokyo Metro Hanzomon Line,139.74163,Hanzomon,Nagatacho,Kudanshita
-140,2800806,35.695589,28008,Tokyo Metro Hanzomon Line,139.751948,Kudanshita,Hanzomon,Jimbocho
-141,2800807,35.695966,28008,Tokyo Metro Hanzomon Line,139.757606,Jimbocho,Kudanshita,Otemachi
-142,2800808,35.68686,28008,Tokyo Metro Hanzomon Line,139.764107,Otemachi,Jimbocho,Before Mitsukoshi
-143,2800809,35.684908,28008,Tokyo Metro Hanzomon Line,139.773147,Before Mitsukoshi,Otemachi,Imperial Palace
-144,2800810,35.682683,28008,Tokyo Metro Hanzomon Line,139.785377,Imperial Palace,Before Mitsukoshi,Kiyosumi Shirakawa
-145,2800811,35.682105,28008,Tokyo Metro Hanzomon Line,139.798851,Kiyosumi Shirakawa,Imperial Palace,Sumiyoshi
-146,2800814,35.689073,28008,Tokyo Metro Hanzomon Line,139.815681,Sumiyoshi,Kiyosumi Shirakawa,Kinshicho
-147,2800812,35.697578,28008,Tokyo Metro Hanzomon Line,139.814941,Kinshicho,Sumiyoshi,Oshigami <before sky tree>
-148,2800813,35.710702,28008,Tokyo Metro Hanzomon Line,139.812935,Oshigami <before sky tree>,Kinshicho,
-149,2800901,35.783417,28009,Tokyo Metro Namboku Line,139.722103,Akahatakabuchi,,Shimo
-150,2800902,35.777948,28009,Tokyo Metro Namboku Line,139.732599,Shimo,Akahatakabuchi,Oji Kamiya
-151,2800903,35.765172,28009,Tokyo Metro Namboku Line,139.735933,Oji Kamiya,Shimo,prince
-152,2800904,35.753966,28009,Tokyo Metro Namboku Line,139.737618,prince,Oji Kamiya,Nishigahara
-153,2800905,35.746008,28009,Tokyo Metro Namboku Line,139.742322,Nishigahara,prince,Komagome
-154,2800906,35.736959,28009,Tokyo Metro Namboku Line,139.746442,Komagome,Nishigahara,Komagome
-155,2800907,35.724155,28009,Tokyo Metro Namboku Line,139.753828,Komagome,Komagome,University of Tokyo
-156,2800908,35.717633,28009,Tokyo Metro Namboku Line,139.758025,University of Tokyo,Komagome,Korakuen
-157,2800909,35.707898,28009,Tokyo Metro Namboku Line,139.751864,Korakuen,University of Tokyo,Iidabashi
-158,2800910,35.701934,28009,Tokyo Metro Namboku Line,139.743669,Iidabashi,Korakuen,Ichigaya
-159,2800911,35.691295,28009,Tokyo Metro Namboku Line,139.736642,Ichigaya,Iidabashi,Yotsuya
-160,2800912,35.686032,28009,Tokyo Metro Namboku Line,139.72955,Yotsuya,Ichigaya,Nagatacho
-161,2800913,35.678757,28009,Tokyo Metro Namboku Line,139.740258,Nagatacho,Yotsuya,Tameike San
-162,2800914,35.673621,28009,Tokyo Metro Namboku Line,139.741419,Tameike San,Nagatacho,Roppongi 1-chome
-163,2800915,35.665595,28009,Tokyo Metro Namboku Line,139.739,Roppongi 1-chome,Tameike San,Azabu-Juban
-164,2800916,35.654682,28009,Tokyo Metro Namboku Line,139.737051,Azabu-Juban,Roppongi 1-chome,Shinkan Takanawa
-165,2800917,35.642903,28009,Tokyo Metro Namboku Line,139.734104,Shinkan Takanawa,Azabu-Juban,Shirokanedai
-166,2800918,35.637917,28009,Tokyo Metro Namboku Line,139.726133,Shirokanedai,Shinkan Takanawa,Meguro
-167,2800919,35.633272,28009,Tokyo Metro Namboku Line,139.7155,Meguro,Shirokanedai,
-168,2801001,35.788507,28010,Tokyo Metro Fukutoshin Line,139.612434,Wako-shi,,Subway rise
-169,2801002,35.776557,28010,Tokyo Metro Fukutoshin Line,139.631497,Subway rise,Wako-shi,Akatsuka Subway
-170,2801003,35.769939,28010,Tokyo Metro Fukutoshin Line,139.644021,Akatsuka Subway,Subway rise,Heiwadai
-171,2801004,35.757863,28010,Tokyo Metro Fukutoshin Line,139.653762,Heiwadai,Akatsuka Subway,Iikawadai
-172,2801005,35.74955,28010,Tokyo Metro Fukutoshin Line,139.665567,Iikawadai,Heiwadai,Kotakebara
-173,2801006,35.743803,28010,Tokyo Metro Fukutoshin Line,139.678572,Kotakebara,Iikawadai,Chikawa
-174,2801007,35.738229,28010,Tokyo Metro Fukutoshin Line,139.689271,Chikawa,Kotakebara,Town
-175,2801008,35.73323,28010,Tokyo Metro Fukutoshin Line,139.698715,Town,Chikawa,Ikebukuro
-176,2801009,35.731464,28010,Tokyo Metro Fukutoshin Line,139.708291,Ikebukuro,Town,Miscellaneous
-177,2801010,35.720233,28010,Tokyo Metro Fukutoshin Line,139.714795,Miscellaneous,Ikebukuro,Nishi Waseda
-178,2801011,35.708242,28010,Tokyo Metro Fukutoshin Line,139.709101,Nishi Waseda,Miscellaneous,Higashi Shinjuku
-179,2801012,35.698915,28010,Tokyo Metro Fukutoshin Line,139.707593,Higashi Shinjuku,Nishi Waseda,Shinjuku 3-chome
-180,2801013,35.690853,28010,Tokyo Metro Fukutoshin Line,139.704828,Shinjuku 3-chome,Higashi Shinjuku,Kitamendo
-181,2801014,35.678459,28010,Tokyo Metro Fukutoshin Line,139.705453,Kitamendo,Shinjuku 3-chome,Meiji Jingumae <Harajuku>
-182,2801015,35.668497,28010,Tokyo Metro Fukutoshin Line,139.705367,Meiji Jingumae <Harajuku>,Kitamendo,Shibuya
-183,2801016,35.659545,28010,Tokyo Metro Fukutoshin Line,139.702417,Shibuya,Meiji Jingumae <Harajuku>,
-184,9930101,35.690551,99301,Toei Oedo Line,139.69257,In front of Tokyo,,Shinjuku West Exit
-185,9930102,35.693315,99301,Toei Oedo Line,139.699155,Shinjuku West Exit,In front of Tokyo,Higashi Shinjuku
-186,9930103,35.69792,99301,Toei Oedo Line,139.707549,Higashi Shinjuku,Shinjuku West Exit,Wakamatsu Kawada
-187,9930104,35.699218,99301,Toei Oedo Line,139.718184,Wakamatsu Kawada,Higashi Shinjuku,Ushikari Yanagi
-188,9930105,35.699518,99301,Toei Oedo Line,139.725027,Ushikari Yanagi,Wakamatsu Kawada,Ushikome Kagurazaka
-189,9930106,35.700851,99301,Toei Oedo Line,139.735802,Ushikome Kagurazaka,Ushikari Yanagi,Iidabashi
-190,9930107,35.702927,99301,Toei Oedo Line,139.744999,Iidabashi,Ushikome Kagurazaka,Kasuga
-191,9930108,35.709598,99301,Toei Oedo Line,139.75325,Kasuga,Iidabashi,Hongo 3-chome
-192,9930109,35.707462,99301,Toei Oedo Line,139.760095,Hongo 3-chome,Kasuga,Ueno Okachimachi
-193,9930110,35.707893,99301,Toei Oedo Line,139.774332,Ueno Okachimachi,Hongo 3-chome,Shinokabacho
-194,9930111,35.707045,99301,Toei Oedo Line,139.781958,Shinokabacho,Ueno Okachimachi,Kuramae
-195,9930112,35.703236,99301,Toei Oedo Line,139.790931,Kuramae,Shinokabacho,Both countries
-196,9930113,35.696881,99301,Toei Oedo Line,139.79742099999999,Both countries,Kuramae,Morishita
-197,9930114,35.68796,99301,Toei Oedo Line,139.797042,Morishita,Both countries,Kiyosumi Shirakawa
-198,9930115,35.682105,99301,Toei Oedo Line,139.798851,Kiyosumi Shirakawa,Morishita,Monzenkakarycho
-199,9930116,35.671851,99301,Toei Oedo Line,139.796209,Monzenkakarycho,Kiyosumi Shirakawa,Tsukishima
-200,9930117,35.664871,99301,Toei Oedo Line,139.784233,Tsukishima,Monzenkakarycho,Kachidoki
-201,9930118,35.658507,99301,Toei Oedo Line,139.776442,Kachidoki,Tsukishima,Tsukiji Market
-202,9930119,35.664895,99301,Toei Oedo Line,139.766915,Tsukiji Market,Kachidoki,Shiodome
-203,9930120,35.663703,99301,Toei Oedo Line,139.760642,Shiodome,Tsukiji Market,Daimon
-204,9930121,35.656785,99301,Toei Oedo Line,139.75466,Daimon,Shiodome,Akabane Bridge
-205,9930122,35.655007,99301,Toei Oedo Line,139.743642,Akabane Bridge,Daimon,Azabu-Juban
-206,9930123,35.656503,99301,Toei Oedo Line,139.736116,Azabu-Juban,Akabane Bridge,Roppongi
-207,9930124,35.663921,99301,Toei Oedo Line,139.731567,Roppongi,Azabu-Juban,Aoyama 1-chome
-208,9930125,35.672929,99301,Toei Oedo Line,139.72396,Aoyama 1-chome,Roppongi,National Stadium
-209,9930126,35.679831,99301,Toei Oedo Line,139.714932,National Stadium,Aoyama 1-chome,Yoyogi
-210,9930127,35.683218,99301,Toei Oedo Line,139.701666,Yoyogi,National Stadium,Shinjuku
-211,9930128,35.68869,99301,Toei Oedo Line,139.698812,Shinjuku,Yoyogi,Nishi-Shinjuku 5-chome
-212,9930129,35.689798,99301,Toei Oedo Line,139.684304,Nishi-Shinjuku 5-chome,Shinjuku,Nakanozaka
-213,9930130,35.69709,99301,Toei Oedo Line,139.682279,Nakanozaka,Nishi-Shinjuku 5-chome,Higashi Nakano
-214,9930131,35.706891,99301,Toei Oedo Line,139.682987,Higashi Nakano,Nakanozaka,Nakai
-215,9930132,35.714035,99301,Toei Oedo Line,139.686356,Nakai,Higashi Nakano,Ochiai Nagasaki
-216,9930133,35.723608,99301,Toei Oedo Line,139.683303,Ochiai Nagasaki,Nakai,Shin Ekoda
-217,9930134,35.732538,99301,Toei Oedo Line,139.670653,Shin Ekoda,Ochiai Nagasaki,Nerima
-218,9930135,35.737404,99301,Toei Oedo Line,139.65477,Nerima,Shin Ekoda,Toyoshimaen
-219,9930136,35.742067,99301,Toei Oedo Line,139.64911,Toyoshimaen,Nerima,Nerima Kasuga
-220,9930137,35.751452,99301,Toei Oedo Line,139.640236,Nerima Kasuga,Toyoshimaen,Hikarigaoka
-221,9930138,35.758526,99301,Toei Oedo Line,139.628603,Hikarigaoka,Nerima Kasuga,
-222,9930201,35.586859,99302,Toei Asakusa Line,139.705942,Nishimakome,,Magome
-223,9930202,35.596435,99302,Toei Asakusa Line,139.711772,Magome,Nishimakome,Nakanobu
-224,9930203,35.605769,99302,Toei Asakusa Line,139.713736,Nakanobu,Magome,Togoshi
-225,9930204,35.614633,99302,Toei Asakusa Line,139.716495,Togoshi,Nakanobu,Gotanda
-226,9930205,35.627102,99302,Toei Asakusa Line,139.724175,Gotanda,Togoshi,Takanashi
-227,9930206,35.631679,99302,Toei Asakusa Line,139.730305,Takanashi,Gotanda,Sengakuji
-228,9930207,35.638692,99302,Toei Asakusa Line,139.74002,Sengakuji,Takanashi,Mita
-229,9930208,35.64818,99302,Toei Asakusa Line,139.748775,Mita,Sengakuji,Daimon
-230,9930209,35.656785,99302,Toei Asakusa Line,139.75466,Daimon,Mita,Shimbashi
-231,9930210,35.665577,99302,Toei Asakusa Line,139.759451,Shimbashi,Daimon,Higashi Ginza
-232,9930211,35.669464,99302,Toei Asakusa Line,139.767253,Higashi Ginza,Shimbashi,Takara cho
-233,9930212,35.675461,99302,Toei Asakusa Line,139.771767,Takara cho,Higashi Ginza,Nihonbashi
-234,9930213,35.681688,99302,Toei Asakusa Line,139.775721,Nihonbashi,Takara cho,Ningyo-cho
-235,9930214,35.686307,99302,Toei Asakusa Line,139.782285,Ningyo-cho,Nihonbashi,East Japan Bridge
-236,9930215,35.692126,99302,Toei Asakusa Line,139.784821,East Japan Bridge,Ningyo-cho,Asakusabashi
-237,9930216,35.697451,99302,Toei Asakusa Line,139.786305,Asakusabashi,East Japan Bridge,Kuramae
-238,9930217,35.703236,99302,Toei Asakusa Line,139.790931,Kuramae,Asakusabashi,Asakusa
-239,9930218,35.709461,99302,Toei Asakusa Line,139.79697,Asakusa,Kuramae,Main Office Azumabashi
-240,9930219,35.70858,99302,Toei Asakusa Line,139.804624,Main Office Azumabashi,Asakusa,Oshigami (before the sky tree)
-241,9930220,35.710702,99302,Toei Asakusa Line,139.812935,Oshigami (before the sky tree),Main Office Azumabashi,
-242,9930301,35.633272,99303,Toei Mita Line,139.7155,Meguro,,Shirokanedai
-243,9930302,35.637917,99303,Toei Mita Line,139.726133,Shirokanedai,Meguro,Shinkan Takanawa
-244,9930303,35.642903,99303,Toei Mita Line,139.734104,Shinkan Takanawa,Shirokanedai,Mita
-245,9930304,35.64818,99303,Toei Mita Line,139.748775,Mita,Shinkan Takanawa,Shibakoen
-246,9930305,35.654074,99303,Toei Mita Line,139.749824,Shibakoen,Mita,The gate
-247,9930306,35.661215,99303,Toei Mita Line,139.751535,The gate,Shibakoen,Uchisaiwasemachi
-248,9930307,35.66975,99303,Toei Mita Line,139.75561,Uchisaiwasemachi,The gate,Hibiya
-249,9930308,35.676036,99303,Toei Mita Line,139.759998,Hibiya,Uchisaiwasemachi,Otemachi
-250,9930309,35.684856,99303,Toei Mita Line,139.762959,Otemachi,Hibiya,Jimbocho
-251,9930310,35.695492,99303,Toei Mita Line,139.75812,Jimbocho,Otemachi,Aqueduct
-252,9930311,35.703398,99303,Toei Mita Line,139.75516,Aqueduct,Jimbocho,Kasuga
-253,9930312,35.709598,99303,Toei Mita Line,139.75325,Kasuga,Aqueduct,Hakusan
-254,9930313,35.721408,99303,Toei Mita Line,139.752136,Hakusan,Kasuga,Sengoku
-255,9930314,35.727957,99303,Toei Mita Line,139.744792,Sengoku,Hakusan,Sugamo
-256,9930315,35.733502,99303,Toei Mita Line,139.738519,Sugamo,Sengoku,Nishikamo
-257,9930316,35.743508,99303,Toei Mita Line,139.728712,Nishikamo,Sugamo,Shinbashi
-258,9930317,35.748785,99303,Toei Mita Line,139.720101,Shinbashi,Nishikamo,Itabashi Ward Office
-259,9930318,35.751284,99303,Toei Mita Line,139.710102,Itabashi Ward Office,Shinbashi,Itabashi Honcho
-260,9930319,35.761339,99303,Toei Mita Line,139.705535,Itabashi Honcho,Itabashi Ward Office,This lotusuma
-261,9930320,35.768782,99303,Toei Mita Line,139.702324,This lotusuma,Itabashi Honcho,Shimura Sakagami
-262,9930321,35.775725,99303,Toei Mita Line,139.69538,Shimura Sakagami,This lotusuma,Shimura 3-chome
-263,9930322,35.777391,99303,Toei Mita Line,139.685937,Shimura 3-chome,Shimura Sakagami,lotus root
-264,9930323,35.784335,99303,Toei Mita Line,139.678993,lotus root,Shimura 3-chome,Nishidai
-265,9930324,35.78699,99303,Toei Mita Line,139.673971,Nishidai,lotus root,Takashimairaira
-266,9930325,35.789056,99303,Toei Mita Line,139.661216,Takashimairaira,Nishidai,Shin Takeshimairing
-267,9930326,35.790189,99303,Toei Mita Line,139.654275,Shin Takeshimairing,Takashimairaira,Nishi Takashimairaira
-268,9930327,35.791833,99303,Toei Mita Line,139.64594,Nishi Takashimairaira,Shin Takeshimairing,
-269,9930401,35.68869,99304,Toei Shinjuku Line,139.698812,Shinjuku,,Shinjuku 3-chome
-270,9930402,35.690616,99304,Toei Shinjuku Line,139.706271,Shinjuku 3-chome,Shinjuku,Akebono Bridge
-271,9930403,35.692402,99304,Toei Shinjuku Line,139.722881,Akebono Bridge,Shinjuku 3-chome,Ichigaya
-272,9930404,35.692594,99304,Toei Shinjuku Line,139.735794,Ichigaya,Akebono Bridge,Kudanshita
-273,9930405,35.695589,99304,Toei Shinjuku Line,139.751948,Kudanshita,Ichigaya,Jimbocho
-274,9930406,35.695966,99304,Toei Shinjuku Line,139.757606,Jimbocho,Kudanshita,Ogawamachi
-275,9930407,35.695487,99304,Toei Shinjuku Line,139.767551,Ogawamachi,Jimbocho,Iwamoto cho
-276,9930408,35.695534,99304,Toei Shinjuku Line,139.775866,Iwamoto cho,Ogawamachi,Maki Yokoyama
-277,9930409,35.69212,99304,Toei Shinjuku Line,139.782768,Maki Yokoyama,Iwamoto cho,Hamacho
-278,9930410,35.688516,99304,Toei Shinjuku Line,139.788154,Hamacho,Maki Yokoyama,Morishita
-279,9930411,35.68796,99304,Toei Shinjuku Line,139.797042,Morishita,Hamacho,Kikugawa
-280,9930412,35.688379,99304,Toei Shinjuku Line,139.806016,Kikugawa,Morishita,Sumiyoshi
-281,9930413,35.689073,99304,Toei Shinjuku Line,139.815681,Sumiyoshi,Kikugawa,Nishioido
-282,9930414,35.689349,99304,Toei Shinjuku Line,139.826206,Nishioido,Sumiyoshi,Oshima
-283,9930415,35.689905,99304,Toei Shinjuku Line,139.83565,Oshima,Nishioido,Higashi Oshima
-284,9930416,35.690355,99304,Toei Shinjuku Line,139.845963,Higashi Oshima,Oshima,Funabori
-285,9930417,35.683795,99304,Toei Shinjuku Line,139.864258,Funabori,Higashi Oshima,Iino Man
-286,9930418,35.686055,99304,Toei Shinjuku Line,139.882934,Iino Man,Funabori,Mizue
-287,9930419,35.693318,99304,Toei Shinjuku Line,139.89761,Mizue,Iino Man,Shinozaki
-288,9930420,35.706017,99304,Toei Shinjuku Line,139.903698,Shinozaki,Mizue,Honhachiman
-289,9930421,35.722929,99304,Toei Shinjuku Line,139.926628,Honhachiman,Shinozaki,
+,id,latitude,line_id,line_name,longitude,name,next_0_name,next_0_id,next_1_name,next_1_id,line_color
+0,2800101,35.710733,28001,Tokyo Metro Ginza Line,139.797592,Asakusa,,0,Tahara-cho,2800102,#f7931d
+1,2800102,35.709897,28001,Tokyo Metro Ginza Line,139.790897,Tahara-cho,Asakusa,2800101,Inaricho,2800103,#f7931d
+2,2800103,35.711273,28001,Tokyo Metro Ginza Line,139.782593,Inaricho,Tahara-cho,2800102,Ueno,2800104,#f7931d
+3,2800104,35.711482,28001,Tokyo Metro Ginza Line,139.777122,Ueno,Inaricho,2800103,Ueno Hirokoji,2800105,#f7931d
+4,2800105,35.70768,28001,Tokyo Metro Ginza Line,139.772877,Ueno Hirokoji,Ueno,2800104,Suehiro cho,2800106,#f7931d
+5,2800106,35.702972,28001,Tokyo Metro Ginza Line,139.771713,Suehiro cho,Ueno Hirokoji,2800105,Kanda,2800107,#f7931d
+6,2800107,35.693587,28001,Tokyo Metro Ginza Line,139.770899,Kanda,Suehiro cho,2800106,Before Mitsukoshi,2800108,#f7931d
+7,2800108,35.687101,28001,Tokyo Metro Ginza Line,139.773594,Before Mitsukoshi,Kanda,2800107,Nihonbashi,2800109,#f7931d
+8,2800109,35.682078,28001,Tokyo Metro Ginza Line,139.773516,Nihonbashi,Before Mitsukoshi,2800108,Kyobashi,2800110,#f7931d
+9,2800110,35.676856,28001,Tokyo Metro Ginza Line,139.770126,Kyobashi,Nihonbashi,2800109,Ginza,2800111,#f7931d
+10,2800111,35.671988999999996,28001,Tokyo Metro Ginza Line,139.763965,Ginza,Kyobashi,2800110,Shimbashi,2800112,#f7931d
+11,2800112,35.667434,28001,Tokyo Metro Ginza Line,139.758432,Shimbashi,Ginza,2800111,Toranomon,2800113,#f7931d
+12,2800113,35.670236,28001,Tokyo Metro Ginza Line,139.749832,Toranomon,Shimbashi,2800112,Tameike San,2800114,#f7931d
+13,2800114,35.673621,28001,Tokyo Metro Ginza Line,139.741419,Tameike San,Toranomon,2800113,Akasaka Mitsuke,2800115,#f7931d
+14,2800115,35.677021,28001,Tokyo Metro Ginza Line,139.737047,Akasaka Mitsuke,Tameike San,2800114,Aoyama 1-chome,2800116,#f7931d
+15,2800116,35.672765,28001,Tokyo Metro Ginza Line,139.724159,Aoyama 1-chome,Akasaka Mitsuke,2800115,Gaienmae front,2800117,#f7931d
+16,2800117,35.670527,28001,Tokyo Metro Ginza Line,139.717857,Gaienmae front,Aoyama 1-chome,2800116,Omotesando,2800118,#f7931d
+17,2800118,35.665247,28001,Tokyo Metro Ginza Line,139.712314,Omotesando,Gaienmae front,2800117,Shibuya,2800119,#f7931d
+18,2800119,35.659066,28001,Tokyo Metro Ginza Line,139.701,Shibuya,Omotesando,2800118,,0,#f7931d
+19,2800201,35.730256,28002,Tokyo Metro Marunouchi Line,139.711086,Ikebukuro,,0,Shin-Otsuka,2800202,#ed1c24
+20,2800202,35.72569,28002,Tokyo Metro Marunouchi Line,139.729971,Shin-Otsuka,Ikebukuro,2800201,Yodoya,2800203,#ed1c24
+21,2800203,35.716989,28002,Tokyo Metro Marunouchi Line,139.737184,Yodoya,Shin-Otsuka,2800202,Korakuen,2800204,#ed1c24
+22,2800204,35.707898,28002,Tokyo Metro Marunouchi Line,139.751864,Korakuen,Yodoya,2800203,Hongo 3-chome,2800205,#ed1c24
+23,2800205,35.706671,28002,Tokyo Metro Marunouchi Line,139.759914,Hongo 3-chome,Korakuen,2800204,Ochanomizu,2800206,#ed1c24
+24,2800206,35.700614,28002,Tokyo Metro Marunouchi Line,139.763952,Ochanomizu,Hongo 3-chome,2800205,Awaji-cho,2800207,#ed1c24
+25,2800207,35.695434,28002,Tokyo Metro Marunouchi Line,139.767575,Awaji-cho,Ochanomizu,2800206,Otemachi,2800208,#ed1c24
+26,2800208,35.686564,28002,Tokyo Metro Marunouchi Line,139.7662,Otemachi,Awaji-cho,2800207,Tokyo,2800209,#ed1c24
+27,2800209,35.681753,28002,Tokyo Metro Marunouchi Line,139.764708,Tokyo,Otemachi,2800208,Ginza,2800210,#ed1c24
+28,2800210,35.671988999999996,28002,Tokyo Metro Marunouchi Line,139.763965,Ginza,Tokyo,2800209,Kasumigaseki,2800211,#ed1c24
+29,2800211,35.673838,28002,Tokyo Metro Marunouchi Line,139.750899,Kasumigaseki,Ginza,2800210,In front of the National Assembly building,2800212,#ed1c24
+30,2800212,35.67393,28002,Tokyo Metro Marunouchi Line,139.745219,In front of the National Assembly building,Kasumigaseki,2800211,Akasaka Mitsuke,2800213,#ed1c24
+31,2800213,35.677021,28002,Tokyo Metro Marunouchi Line,139.737047,Akasaka Mitsuke,In front of the National Assembly building,2800212,Yotsuya,2800214,#ed1c24
+32,2800214,35.684586,28002,Tokyo Metro Marunouchi Line,139.729947,Yotsuya,Akasaka Mitsuke,2800213,Yotsuya 3-chome,2800215,#ed1c24
+33,2800215,35.687958,28002,Tokyo Metro Marunouchi Line,139.720103,Yotsuya 3-chome,Yotsuya,2800214,Shinjuku Gyoenmae front,2800216,#ed1c24
+34,2800216,35.688588,28002,Tokyo Metro Marunouchi Line,139.71069,Shinjuku Gyoenmae front,Yotsuya 3-chome,2800215,Shinjuku 3-chome,2800217,#ed1c24
+35,2800217,35.690847,28002,Tokyo Metro Marunouchi Line,139.704895,Shinjuku 3-chome,Shinjuku Gyoenmae front,2800216,Shinjuku,2800218,#ed1c24
+36,2800218,35.69235,28002,Tokyo Metro Marunouchi Line,139.700711,Shinjuku,Shinjuku 3-chome,2800217,Nishi Shinjuku,2800219,#ed1c24
+37,2800219,35.694298,28002,Tokyo Metro Marunouchi Line,139.692778,Nishi Shinjuku,Shinjuku,2800218,Nakanozaka,2800220,#ed1c24
+38,2800220,35.69792,28002,Tokyo Metro Marunouchi Line,139.68291,Nakanozaka,Nishi Shinjuku,2800219,Shin Nakano,2800221,#ed1c24
+39,2800221,35.697491,28002,Tokyo Metro Marunouchi Line,139.66903,Shin Nakano,Nakanozaka,2800220,Higashi Koenji,2800222,#ed1c24
+40,2800222,35.697802,28002,Tokyo Metro Marunouchi Line,139.657822,Higashi Koenji,Shin Nakano,2800221,Shin Koenji,2800223,#ed1c24
+41,2800223,35.697985,28002,Tokyo Metro Marunouchi Line,139.648068,Shin Koenji,Higashi Koenji,2800222,Minami Asagaya,2800224,#ed1c24
+42,2800224,35.699624,28002,Tokyo Metro Marunouchi Line,139.63576,Minami Asagaya,Shin Koenji,2800223,Ogikubo,2800225,#ed1c24
+43,2800225,35.704304,28002,Tokyo Metro Marunouchi Line,139.620116,Ogikubo,Minami Asagaya,2800224,Nakano Shimbashi,2800226,#ed1c24
+44,2800226,35.692123,28002,Tokyo Metro Marunouchi Line,139.67399699999999,Nakano Shimbashi,Ogikubo,2800225,Nakano Fujimi cho,2800227,#ed1c24
+45,2800227,35.690514,28002,Tokyo Metro Marunouchi Line,139.666933,Nakano Fujimi cho,Nakano Shimbashi,2800226,Honancho,2800228,#ed1c24
+46,2800228,35.683496,28002,Tokyo Metro Marunouchi Line,139.656498,Honancho,Nakano Fujimi cho,2800227,,0,#ed1c24
+47,2800301,35.748916,28003,Tokyo Metro Hibiya Line,139.804276,Kita Senju,,0,Minami-senju,2800302,#8ba2ae
+48,2800302,35.733398,28003,Tokyo Metro Hibiya Line,139.799273,Minami-senju,Kita Senju,2800301,Minowa,2800303,#8ba2ae
+49,2800303,35.729623,28003,Tokyo Metro Hibiya Line,139.791485,Minowa,Minami-senju,2800302,Iriya,2800304,#8ba2ae
+50,2800304,35.719862,28003,Tokyo Metro Hibiya Line,139.783924,Iriya,Minowa,2800303,Ueno,2800305,#8ba2ae
+51,2800305,35.711482,28003,Tokyo Metro Hibiya Line,139.777122,Ueno,Iriya,2800304,Nakajimachi,2800306,#8ba2ae
+52,2800306,35.706649,28003,Tokyo Metro Hibiya Line,139.776138,Nakajimachi,Ueno,2800305,Akihabara,2800307,#8ba2ae
+53,2800307,35.698161999999996,28003,Tokyo Metro Hibiya Line,139.775459,Akihabara,Nakajimachi,2800306,Kodenma Town,2800308,#8ba2ae
+54,2800308,35.690737,28003,Tokyo Metro Hibiya Line,139.778433,Kodenma Town,Akihabara,2800307,Ningyo-cho,2800309,#8ba2ae
+55,2800309,35.686307,28003,Tokyo Metro Hibiya Line,139.782285,Ningyo-cho,Kodenma Town,2800308,Kayabacho,2800310,#8ba2ae
+56,2800310,35.679752,28003,Tokyo Metro Hibiya Line,139.780005,Kayabacho,Ningyo-cho,2800309,Hatchobori,2800311,#8ba2ae
+57,2800311,35.674851,28003,Tokyo Metro Hibiya Line,139.776982,Hatchobori,Kayabacho,2800310,Tsukiji,2800312,#8ba2ae
+58,2800312,35.668115,28003,Tokyo Metro Hibiya Line,139.772603,Tsukiji,Hatchobori,2800311,Higashi Ginza,2800313,#8ba2ae
+59,2800313,35.669464,28003,Tokyo Metro Hibiya Line,139.767253,Higashi Ginza,Tsukiji,2800312,Ginza,2800314,#8ba2ae
+60,2800314,35.671988999999996,28003,Tokyo Metro Hibiya Line,139.763965,Ginza,Higashi Ginza,2800313,Hibiya,2800315,#8ba2ae
+61,2800315,35.67459,28003,Tokyo Metro Hibiya Line,139.76017,Hibiya,Ginza,2800314,Kasumigaseki,2800316,#8ba2ae
+62,2800316,35.673838,28003,Tokyo Metro Hibiya Line,139.750899,Kasumigaseki,Hibiya,2800315,Kamiyacho,2800317,#8ba2ae
+63,2800317,35.662978,28003,Tokyo Metro Hibiya Line,139.745069,Kamiyacho,Kasumigaseki,2800316,Roppongi,2800318,#8ba2ae
+64,2800318,35.662836,28003,Tokyo Metro Hibiya Line,139.731443,Roppongi,Kamiyacho,2800317,Hiroo,2800319,#8ba2ae
+65,2800319,35.652279,28003,Tokyo Metro Hibiya Line,139.722202,Hiroo,Roppongi,2800318,Ebisu,2800320,#8ba2ae
+66,2800320,35.647332,28003,Tokyo Metro Hibiya Line,139.708988,Ebisu,Hiroo,2800319,Nakameguro,2800321,#8ba2ae
+67,2800321,35.643854,28003,Tokyo Metro Hibiya Line,139.698621,Nakameguro,Ebisu,2800320,,0,#8ba2ae
+68,2800401,35.705765,28004,Tokyo Metro Tozai Line,139.665835,Nakano,,0,Ochiai,2800402,#00b2dd
+69,2800402,35.710976,28004,Tokyo Metro Tozai Line,139.687284,Ochiai,Nakano,2800401,Takadanobaba,2800403,#00b2dd
+70,2800403,35.713338,28004,Tokyo Metro Tozai Line,139.704745,Takadanobaba,Ochiai,2800402,Waseda,2800404,#00b2dd
+71,2800404,35.705723,28004,Tokyo Metro Tozai Line,139.721319,Waseda,Takadanobaba,2800403,Kagurazaka,2800405,#00b2dd
+72,2800405,35.70379,28004,Tokyo Metro Tozai Line,139.734546,Kagurazaka,Waseda,2800404,Iidabashi,2800406,#00b2dd
+73,2800406,35.701725,28004,Tokyo Metro Tozai Line,139.745986,Iidabashi,Kagurazaka,2800405,Kudanshita,2800407,#00b2dd
+74,2800407,35.695589,28004,Tokyo Metro Tozai Line,139.751948,Kudanshita,Iidabashi,2800406,Bamboo bridge,2800408,#00b2dd
+75,2800408,35.690662,28004,Tokyo Metro Tozai Line,139.756817,Bamboo bridge,Kudanshita,2800407,Otemachi,2800409,#00b2dd
+76,2800409,35.684801,28004,Tokyo Metro Tozai Line,139.766086,Otemachi,Bamboo bridge,2800408,Nihonbashi,2800410,#00b2dd
+77,2800410,35.682078,28004,Tokyo Metro Tozai Line,139.773516,Nihonbashi,Otemachi,2800409,Kayabacho,2800411,#00b2dd
+78,2800411,35.679752,28004,Tokyo Metro Tozai Line,139.780005,Kayabacho,Nihonbashi,2800410,Monzenkakarycho,2800412,#00b2dd
+79,2800412,35.671851,28004,Tokyo Metro Tozai Line,139.796209,Monzenkakarycho,Kayabacho,2800411,Kiba,2800413,#00b2dd
+80,2800413,35.669351,28004,Tokyo Metro Tozai Line,139.807042,Kiba,Monzenkakarycho,2800412,Toyocho,2800414,#00b2dd
+81,2800414,35.669629,28004,Tokyo Metro Tozai Line,139.817596,Toyocho,Kiba,2800413,Minami-sen,2800415,#00b2dd
+82,2800415,35.668796,28004,Tokyo Metro Tozai Line,139.83065,Minami-sen,Toyocho,2800414,Nishikasai,2800416,#00b2dd
+83,2800416,35.664631,28004,Tokyo Metro Tozai Line,139.859259,Nishikasai,Minami-sen,2800415,Kasai,2800417,#00b2dd
+84,2800417,35.663554,28004,Tokyo Metro Tozai Line,139.872458,Kasai,Nishikasai,2800416,Urayasu,2800418,#00b2dd
+85,2800418,35.665932,28004,Tokyo Metro Tozai Line,139.893193,Urayasu,Kasai,2800417,Minami kotoku,2800419,#00b2dd
+86,2800419,35.672687,28004,Tokyo Metro Tozai Line,139.902311,Minami kotoku,Urayasu,2800418,Virtue,2800420,#00b2dd
+87,2800420,35.682686,28004,Tokyo Metro Tozai Line,139.914254,Virtue,Minami kotoku,2800419,Mythology,2800421,#00b2dd
+88,2800421,35.690935,28004,Tokyo Metro Tozai Line,139.924209,Mythology,Virtue,2800420,Haruko Nakayama,2800422,#00b2dd
+89,2800422,35.703517,28004,Tokyo Metro Tozai Line,139.942029,Haruko Nakayama,Mythology,2800421,Nishi-Funabashi,2800423,#00b2dd
+90,2800423,35.707127,28004,Tokyo Metro Tozai Line,139.958972,Nishi-Funabashi,Haruko Nakayama,2800422,,0,#00b2dd
+91,2800501,35.777117,28005,Tokyo Metro Chiyoda Line,139.832035,North Ayase,,0,Ayase,2800502,#00a650
+92,2800502,35.762222,28005,Tokyo Metro Chiyoda Line,139.825019,Ayase,North Ayase,2800501,Kita Senju,2800503,#00a650
+93,2800503,35.748916,28005,Tokyo Metro Chiyoda Line,139.804276,Kita Senju,Ayase,2800502,Machiya,2800504,#00a650
+94,2800504,35.742733,28005,Tokyo Metro Chiyoda Line,139.780501,Machiya,Kita Senju,2800503,Nishi nippori,2800505,#00a650
+95,2800505,35.732257,28005,Tokyo Metro Chiyoda Line,139.766511,Nishi nippori,Machiya,2800504,Sengoki,2800506,#00a650
+96,2800506,35.725549,28005,Tokyo Metro Chiyoda Line,139.763243,Sengoki,Nishi nippori,2800505,Nezu,2800507,#00a650
+97,2800507,35.7174,28005,Tokyo Metro Chiyoda Line,139.765655,Nezu,Sengoki,2800506,Yushima,2800508,#00a650
+98,2800508,35.708243,28005,Tokyo Metro Chiyoda Line,139.769916,Yushima,Nezu,2800507,New Ochanomizu,2800509,#00a650
+99,2800509,35.698072,28005,Tokyo Metro Chiyoda Line,139.766014,New Ochanomizu,Yushima,2800508,Otemachi,2800510,#00a650
+100,2800510,35.686154,28005,Tokyo Metro Chiyoda Line,139.763399,Otemachi,New Ochanomizu,2800509,Front of Nijigyo Bashi,2800511,#00a650
+101,2800511,35.681071,28005,Tokyo Metro Chiyoda Line,139.761948,Front of Nijigyo Bashi,Otemachi,2800510,Hibiya,2800512,#00a650
+102,2800512,35.674241,28005,Tokyo Metro Chiyoda Line,139.758732,Hibiya,Front of Nijigyo Bashi,2800511,Kasumigaseki,2800513,#00a650
+103,2800513,35.673838,28005,Tokyo Metro Chiyoda Line,139.750899,Kasumigaseki,Hibiya,2800512,In front of the National Assembly building,2800514,#00a650
+104,2800514,35.67393,28005,Tokyo Metro Chiyoda Line,139.745219,In front of the National Assembly building,Kasumigaseki,2800513,Akasaka,2800515,#00a650
+105,2800515,35.67323,28005,Tokyo Metro Chiyoda Line,139.738348,Akasaka,In front of the National Assembly building,2800514,Nogizaka,2800516,#00a650
+106,2800516,35.666572,28005,Tokyo Metro Chiyoda Line,139.726215,Nogizaka,Akasaka,2800515,Omotesando,2800517,#00a650
+107,2800517,35.665247,28005,Tokyo Metro Chiyoda Line,139.712314,Omotesando,Nogizaka,2800516,Meiji Jingumae <Harajuku>,2800518,#00a650
+108,2800518,35.669071,28005,Tokyo Metro Chiyoda Line,139.703995,Meiji Jingumae <Harajuku>,Omotesando,2800517,Yoyogi park,2800519,#00a650
+109,2800519,35.669187,28005,Tokyo Metro Chiyoda Line,139.689099,Yoyogi park,Meiji Jingumae <Harajuku>,2800518,Yoyogi Uehara,2800520,#00a650
+110,2800520,35.669159,28005,Tokyo Metro Chiyoda Line,139.680153,Yoyogi Uehara,Yoyogi park,2800519,,0,#00a650
+111,2800601,35.788507,28006,Tokyo Metro Yurakucho Line,139.612434,Wako-shi,,0,Subway rise,2800602,#bb8b38
+112,2800602,35.776557,28006,Tokyo Metro Yurakucho Line,139.631497,Subway rise,Wako-shi,2800601,Akatsuka Subway,2800603,#bb8b38
+113,2800603,35.769939,28006,Tokyo Metro Yurakucho Line,139.644021,Akatsuka Subway,Subway rise,2800602,Heiwadai,2800604,#bb8b38
+114,2800604,35.757863,28006,Tokyo Metro Yurakucho Line,139.653762,Heiwadai,Akatsuka Subway,2800603,Iikawadai,2800605,#bb8b38
+115,2800605,35.74955,28006,Tokyo Metro Yurakucho Line,139.665567,Iikawadai,Heiwadai,2800604,Kotakebara,2800606,#bb8b38
+116,2800606,35.743803,28006,Tokyo Metro Yurakucho Line,139.678572,Kotakebara,Iikawadai,2800605,Chikawa,2800607,#bb8b38
+117,2800607,35.738229,28006,Tokyo Metro Yurakucho Line,139.689271,Chikawa,Kotakebara,2800606,Town,2800608,#bb8b38
+118,2800608,35.73323,28006,Tokyo Metro Yurakucho Line,139.698715,Town,Chikawa,2800607,Ikebukuro,2800609,#bb8b38
+119,2800609,35.729565,28006,Tokyo Metro Yurakucho Line,139.710088,Ikebukuro,Town,2800608,Higashi Ikebukuro,2800610,#bb8b38
+120,2800610,35.725732,28006,Tokyo Metro Yurakucho Line,139.719546,Higashi Ikebukuro,Ikebukuro,2800609,Gokoku-ji,2800611,#bb8b38
+121,2800611,35.719044,28006,Tokyo Metro Yurakucho Line,139.72754,Gokoku-ji,Higashi Ikebukuro,2800610,Edogawa Bridge,2800612,#bb8b38
+122,2800612,35.709495,28006,Tokyo Metro Yurakucho Line,139.733538,Edogawa Bridge,Gokoku-ji,2800611,Iidabashi,2800613,#bb8b38
+123,2800613,35.701934,28006,Tokyo Metro Yurakucho Line,139.743669,Iidabashi,Edogawa Bridge,2800612,Ichigaya,2800614,#bb8b38
+124,2800614,35.691958,28006,Tokyo Metro Yurakucho Line,139.73647,Ichigaya,Iidabashi,2800613,Kōjimachi,2800615,#bb8b38
+125,2800615,35.684006,28006,Tokyo Metro Yurakucho Line,139.737613,Kōjimachi,Ichigaya,2800614,Nagatacho,2800616,#bb8b38
+126,2800616,35.678757,28006,Tokyo Metro Yurakucho Line,139.740258,Nagatacho,Kōjimachi,2800615,Sakuradamon,2800617,#bb8b38
+127,2800617,35.677405,28006,Tokyo Metro Yurakucho Line,139.75149,Sakuradamon,Nagatacho,2800616,Yurakucho,2800618,#bb8b38
+128,2800618,35.675714,28006,Tokyo Metro Yurakucho Line,139.763265,Yurakucho,Sakuradamon,2800617,Ginza 1-chome,2800619,#bb8b38
+129,2800619,35.67435,28006,Tokyo Metro Yurakucho Line,139.767045,Ginza 1-chome,Yurakucho,2800618,Shintomi cho,2800620,#bb8b38
+130,2800620,35.670462,28006,Tokyo Metro Yurakucho Line,139.773711,Shintomi cho,Ginza 1-chome,2800619,Tsukishima,2800621,#bb8b38
+131,2800621,35.664871,28006,Tokyo Metro Yurakucho Line,139.784233,Tsukishima,Shintomi cho,2800620,Toyosu,2800622,#bb8b38
+132,2800622,35.654908,28006,Tokyo Metro Yurakucho Line,139.79621,Toyosu,Tsukishima,2800621,Tatsumi,2800623,#bb8b38
+133,2800623,35.645576,28006,Tokyo Metro Yurakucho Line,139.81052,Tatsumi,Toyosu,2800622,Shinkiba,2800624,#bb8b38
+134,2800624,35.645832,28006,Tokyo Metro Yurakucho Line,139.826254,Shinkiba,Tatsumi,2800623,,0,#bb8b38
+135,2800801,35.659066,28008,Tokyo Metro Hanzomon Line,139.701,Shibuya,,0,Omotesando,2800802,#937cb9
+136,2800802,35.665247,28008,Tokyo Metro Hanzomon Line,139.712314,Omotesando,Shibuya,2800801,Aoyama 1-chome,2800803,#937cb9
+137,2800803,35.672765,28008,Tokyo Metro Hanzomon Line,139.724159,Aoyama 1-chome,Omotesando,2800802,Nagatacho,2800804,#937cb9
+138,2800804,35.678757,28008,Tokyo Metro Hanzomon Line,139.740258,Nagatacho,Aoyama 1-chome,2800803,Hanzomon,2800805,#937cb9
+139,2800805,35.685703,28008,Tokyo Metro Hanzomon Line,139.74163,Hanzomon,Nagatacho,2800804,Kudanshita,2800806,#937cb9
+140,2800806,35.695589,28008,Tokyo Metro Hanzomon Line,139.751948,Kudanshita,Hanzomon,2800805,Jimbocho,2800807,#937cb9
+141,2800807,35.695966,28008,Tokyo Metro Hanzomon Line,139.757606,Jimbocho,Kudanshita,2800806,Otemachi,2800808,#937cb9
+142,2800808,35.68686,28008,Tokyo Metro Hanzomon Line,139.764107,Otemachi,Jimbocho,2800807,Before Mitsukoshi,2800809,#937cb9
+143,2800809,35.684908,28008,Tokyo Metro Hanzomon Line,139.773147,Before Mitsukoshi,Otemachi,2800808,Imperial Palace,2800810,#937cb9
+144,2800810,35.682683,28008,Tokyo Metro Hanzomon Line,139.785377,Imperial Palace,Before Mitsukoshi,2800809,Kiyosumi Shirakawa,2800811,#937cb9
+145,2800811,35.682105,28008,Tokyo Metro Hanzomon Line,139.798851,Kiyosumi Shirakawa,Imperial Palace,2800810,Sumiyoshi,2800814,#937cb9
+146,2800814,35.689073,28008,Tokyo Metro Hanzomon Line,139.815681,Sumiyoshi,Kiyosumi Shirakawa,2800811,Kinshicho,2800812,#937cb9
+147,2800812,35.697578,28008,Tokyo Metro Hanzomon Line,139.814941,Kinshicho,Sumiyoshi,2800814,Oshigami <before sky tree>,2800813,#937cb9
+148,2800813,35.710702,28008,Tokyo Metro Hanzomon Line,139.812935,Oshigami <before sky tree>,Kinshicho,2800812,,0,#937cb9
+149,2800901,35.783417,28009,Tokyo Metro Namboku Line,139.722103,Akahatakabuchi,,0,Shimo,2800902,#00b5ad
+150,2800902,35.777948,28009,Tokyo Metro Namboku Line,139.732599,Shimo,Akahatakabuchi,2800901,Oji Kamiya,2800903,#00b5ad
+151,2800903,35.765172,28009,Tokyo Metro Namboku Line,139.735933,Oji Kamiya,Shimo,2800902,prince,2800904,#00b5ad
+152,2800904,35.753966,28009,Tokyo Metro Namboku Line,139.737618,prince,Oji Kamiya,2800903,Nishigahara,2800905,#00b5ad
+153,2800905,35.746008,28009,Tokyo Metro Namboku Line,139.742322,Nishigahara,prince,2800904,Komagome,2800906,#00b5ad
+154,2800906,35.736959,28009,Tokyo Metro Namboku Line,139.746442,Komagome,Nishigahara,2800905,Komagome,2800907,#00b5ad
+155,2800907,35.724155,28009,Tokyo Metro Namboku Line,139.753828,Komagome,Komagome,2800906,University of Tokyo,2800908,#00b5ad
+156,2800908,35.717633,28009,Tokyo Metro Namboku Line,139.758025,University of Tokyo,Komagome,2800907,Korakuen,2800909,#00b5ad
+157,2800909,35.707898,28009,Tokyo Metro Namboku Line,139.751864,Korakuen,University of Tokyo,2800908,Iidabashi,2800910,#00b5ad
+158,2800910,35.701934,28009,Tokyo Metro Namboku Line,139.743669,Iidabashi,Korakuen,2800909,Ichigaya,2800911,#00b5ad
+159,2800911,35.691295,28009,Tokyo Metro Namboku Line,139.736642,Ichigaya,Iidabashi,2800910,Yotsuya,2800912,#00b5ad
+160,2800912,35.686032,28009,Tokyo Metro Namboku Line,139.72955,Yotsuya,Ichigaya,2800911,Nagatacho,2800913,#00b5ad
+161,2800913,35.678757,28009,Tokyo Metro Namboku Line,139.740258,Nagatacho,Yotsuya,2800912,Tameike San,2800914,#00b5ad
+162,2800914,35.673621,28009,Tokyo Metro Namboku Line,139.741419,Tameike San,Nagatacho,2800913,Roppongi 1-chome,2800915,#00b5ad
+163,2800915,35.665595,28009,Tokyo Metro Namboku Line,139.739,Roppongi 1-chome,Tameike San,2800914,Azabu-Juban,2800916,#00b5ad
+164,2800916,35.654682,28009,Tokyo Metro Namboku Line,139.737051,Azabu-Juban,Roppongi 1-chome,2800915,Shinkan Takanawa,2800917,#00b5ad
+165,2800917,35.642903,28009,Tokyo Metro Namboku Line,139.734104,Shinkan Takanawa,Azabu-Juban,2800916,Shirokanedai,2800918,#00b5ad
+166,2800918,35.637917,28009,Tokyo Metro Namboku Line,139.726133,Shirokanedai,Shinkan Takanawa,2800917,Meguro,2800919,#00b5ad
+167,2800919,35.633272,28009,Tokyo Metro Namboku Line,139.7155,Meguro,Shirokanedai,2800918,,0,#00b5ad
+168,2801001,35.788507,28010,Tokyo Metro Fukutoshin Line,139.612434,Wako-shi,,0,Subway rise,2801002,#ba6831
+169,2801002,35.776557,28010,Tokyo Metro Fukutoshin Line,139.631497,Subway rise,Wako-shi,2801001,Akatsuka Subway,2801003,#ba6831
+170,2801003,35.769939,28010,Tokyo Metro Fukutoshin Line,139.644021,Akatsuka Subway,Subway rise,2801002,Heiwadai,2801004,#ba6831
+171,2801004,35.757863,28010,Tokyo Metro Fukutoshin Line,139.653762,Heiwadai,Akatsuka Subway,2801003,Iikawadai,2801005,#ba6831
+172,2801005,35.74955,28010,Tokyo Metro Fukutoshin Line,139.665567,Iikawadai,Heiwadai,2801004,Kotakebara,2801006,#ba6831
+173,2801006,35.743803,28010,Tokyo Metro Fukutoshin Line,139.678572,Kotakebara,Iikawadai,2801005,Chikawa,2801007,#ba6831
+174,2801007,35.738229,28010,Tokyo Metro Fukutoshin Line,139.689271,Chikawa,Kotakebara,2801006,Town,2801008,#ba6831
+175,2801008,35.73323,28010,Tokyo Metro Fukutoshin Line,139.698715,Town,Chikawa,2801007,Ikebukuro,2801009,#ba6831
+176,2801009,35.731464,28010,Tokyo Metro Fukutoshin Line,139.708291,Ikebukuro,Town,2801008,Miscellaneous,2801010,#ba6831
+177,2801010,35.720233,28010,Tokyo Metro Fukutoshin Line,139.714795,Miscellaneous,Ikebukuro,2801009,Nishi Waseda,2801011,#ba6831
+178,2801011,35.708242,28010,Tokyo Metro Fukutoshin Line,139.709101,Nishi Waseda,Miscellaneous,2801010,Higashi Shinjuku,2801012,#ba6831
+179,2801012,35.698915,28010,Tokyo Metro Fukutoshin Line,139.707593,Higashi Shinjuku,Nishi Waseda,2801011,Shinjuku 3-chome,2801013,#ba6831
+180,2801013,35.690853,28010,Tokyo Metro Fukutoshin Line,139.704828,Shinjuku 3-chome,Higashi Shinjuku,2801012,Kitamendo,2801014,#ba6831
+181,2801014,35.678459,28010,Tokyo Metro Fukutoshin Line,139.705453,Kitamendo,Shinjuku 3-chome,2801013,Meiji Jingumae <Harajuku>,2801015,#ba6831
+182,2801015,35.668497,28010,Tokyo Metro Fukutoshin Line,139.705367,Meiji Jingumae <Harajuku>,Kitamendo,2801014,Shibuya,2801016,#ba6831
+183,2801016,35.659545,28010,Tokyo Metro Fukutoshin Line,139.702417,Shibuya,Meiji Jingumae <Harajuku>,2801015,,0,#ba6831
+184,9930101,35.690551,99301,Toei Oedo Line,139.69257,In front of Tokyo,,0,Shinjuku West Exit,9930102,#b51e82
+185,9930102,35.693315,99301,Toei Oedo Line,139.699155,Shinjuku West Exit,In front of Tokyo,9930101,Higashi Shinjuku,9930103,#b51e82
+186,9930103,35.69792,99301,Toei Oedo Line,139.707549,Higashi Shinjuku,Shinjuku West Exit,9930102,Wakamatsu Kawada,9930104,#b51e82
+187,9930104,35.699218,99301,Toei Oedo Line,139.718184,Wakamatsu Kawada,Higashi Shinjuku,9930103,Ushikari Yanagi,9930105,#b51e82
+188,9930105,35.699518,99301,Toei Oedo Line,139.725027,Ushikari Yanagi,Wakamatsu Kawada,9930104,Ushikome Kagurazaka,9930106,#b51e82
+189,9930106,35.700851,99301,Toei Oedo Line,139.735802,Ushikome Kagurazaka,Ushikari Yanagi,9930105,Iidabashi,9930107,#b51e82
+190,9930107,35.702927,99301,Toei Oedo Line,139.744999,Iidabashi,Ushikome Kagurazaka,9930106,Kasuga,9930108,#b51e82
+191,9930108,35.709598,99301,Toei Oedo Line,139.75325,Kasuga,Iidabashi,9930107,Hongo 3-chome,9930109,#b51e82
+192,9930109,35.707462,99301,Toei Oedo Line,139.760095,Hongo 3-chome,Kasuga,9930108,Ueno Okachimachi,9930110,#b51e82
+193,9930110,35.707893,99301,Toei Oedo Line,139.774332,Ueno Okachimachi,Hongo 3-chome,9930109,Shinokabacho,9930111,#b51e82
+194,9930111,35.707045,99301,Toei Oedo Line,139.781958,Shinokabacho,Ueno Okachimachi,9930110,Kuramae,9930112,#b51e82
+195,9930112,35.703236,99301,Toei Oedo Line,139.790931,Kuramae,Shinokabacho,9930111,Both countries,9930113,#b51e82
+196,9930113,35.696881,99301,Toei Oedo Line,139.79742099999999,Both countries,Kuramae,9930112,Morishita,9930114,#b51e82
+197,9930114,35.68796,99301,Toei Oedo Line,139.797042,Morishita,Both countries,9930113,Kiyosumi Shirakawa,9930115,#b51e82
+198,9930115,35.682105,99301,Toei Oedo Line,139.798851,Kiyosumi Shirakawa,Morishita,9930114,Monzenkakarycho,9930116,#b51e82
+199,9930116,35.671851,99301,Toei Oedo Line,139.796209,Monzenkakarycho,Kiyosumi Shirakawa,9930115,Tsukishima,9930117,#b51e82
+200,9930117,35.664871,99301,Toei Oedo Line,139.784233,Tsukishima,Monzenkakarycho,9930116,Kachidoki,9930118,#b51e82
+201,9930118,35.658507,99301,Toei Oedo Line,139.776442,Kachidoki,Tsukishima,9930117,Tsukiji Market,9930119,#b51e82
+202,9930119,35.664895,99301,Toei Oedo Line,139.766915,Tsukiji Market,Kachidoki,9930118,Shiodome,9930120,#b51e82
+203,9930120,35.663703,99301,Toei Oedo Line,139.760642,Shiodome,Tsukiji Market,9930119,Daimon,9930121,#b51e82
+204,9930121,35.656785,99301,Toei Oedo Line,139.75466,Daimon,Shiodome,9930120,Akabane Bridge,9930122,#b51e82
+205,9930122,35.655007,99301,Toei Oedo Line,139.743642,Akabane Bridge,Daimon,9930121,Azabu-Juban,9930123,#b51e82
+206,9930123,35.656503,99301,Toei Oedo Line,139.736116,Azabu-Juban,Akabane Bridge,9930122,Roppongi,9930124,#b51e82
+207,9930124,35.663921,99301,Toei Oedo Line,139.731567,Roppongi,Azabu-Juban,9930123,Aoyama 1-chome,9930125,#b51e82
+208,9930125,35.672929,99301,Toei Oedo Line,139.72396,Aoyama 1-chome,Roppongi,9930124,National Stadium,9930126,#b51e82
+209,9930126,35.679831,99301,Toei Oedo Line,139.714932,National Stadium,Aoyama 1-chome,9930125,Yoyogi,9930127,#b51e82
+210,9930127,35.683218,99301,Toei Oedo Line,139.701666,Yoyogi,National Stadium,9930126,Shinjuku,9930128,#b51e82
+211,9930128,35.68869,99301,Toei Oedo Line,139.698812,Shinjuku,Yoyogi,9930127,Nishi-Shinjuku 5-chome,9930129,#b51e82
+212,9930129,35.689798,99301,Toei Oedo Line,139.684304,Nishi-Shinjuku 5-chome,Shinjuku,9930128,Nakanozaka,9930130,#b51e82
+213,9930130,35.69709,99301,Toei Oedo Line,139.682279,Nakanozaka,Nishi-Shinjuku 5-chome,9930129,Higashi Nakano,9930131,#b51e82
+214,9930131,35.706891,99301,Toei Oedo Line,139.682987,Higashi Nakano,Nakanozaka,9930130,Nakai,9930132,#b51e82
+215,9930132,35.714035,99301,Toei Oedo Line,139.686356,Nakai,Higashi Nakano,9930131,Ochiai Nagasaki,9930133,#b51e82
+216,9930133,35.723608,99301,Toei Oedo Line,139.683303,Ochiai Nagasaki,Nakai,9930132,Shin Ekoda,9930134,#b51e82
+217,9930134,35.732538,99301,Toei Oedo Line,139.670653,Shin Ekoda,Ochiai Nagasaki,9930133,Nerima,9930135,#b51e82
+218,9930135,35.737404,99301,Toei Oedo Line,139.65477,Nerima,Shin Ekoda,9930134,Toyoshimaen,9930136,#b51e82
+219,9930136,35.742067,99301,Toei Oedo Line,139.64911,Toyoshimaen,Nerima,9930135,Nerima Kasuga,9930137,#b51e82
+220,9930137,35.751452,99301,Toei Oedo Line,139.640236,Nerima Kasuga,Toyoshimaen,9930136,Hikarigaoka,9930138,#b51e82
+221,9930138,35.758526,99301,Toei Oedo Line,139.628603,Hikarigaoka,Nerima Kasuga,9930137,,0,#b51e82
+222,9930201,35.586859,99302,Toei Asakusa Line,139.705942,Nishimakome,,0,Magome,9930202,#ef5ba1
+223,9930202,35.596435,99302,Toei Asakusa Line,139.711772,Magome,Nishimakome,9930201,Nakanobu,9930203,#ef5ba1
+224,9930203,35.605769,99302,Toei Asakusa Line,139.713736,Nakanobu,Magome,9930202,Togoshi,9930204,#ef5ba1
+225,9930204,35.614633,99302,Toei Asakusa Line,139.716495,Togoshi,Nakanobu,9930203,Gotanda,9930205,#ef5ba1
+226,9930205,35.627102,99302,Toei Asakusa Line,139.724175,Gotanda,Togoshi,9930204,Takanashi,9930206,#ef5ba1
+227,9930206,35.631679,99302,Toei Asakusa Line,139.730305,Takanashi,Gotanda,9930205,Sengakuji,9930207,#ef5ba1
+228,9930207,35.638692,99302,Toei Asakusa Line,139.74002,Sengakuji,Takanashi,9930206,Mita,9930208,#ef5ba1
+229,9930208,35.64818,99302,Toei Asakusa Line,139.748775,Mita,Sengakuji,9930207,Daimon,9930209,#ef5ba1
+230,9930209,35.656785,99302,Toei Asakusa Line,139.75466,Daimon,Mita,9930208,Shimbashi,9930210,#ef5ba1
+231,9930210,35.665577,99302,Toei Asakusa Line,139.759451,Shimbashi,Daimon,9930209,Higashi Ginza,9930211,#ef5ba1
+232,9930211,35.669464,99302,Toei Asakusa Line,139.767253,Higashi Ginza,Shimbashi,9930210,Takara cho,9930212,#ef5ba1
+233,9930212,35.675461,99302,Toei Asakusa Line,139.771767,Takara cho,Higashi Ginza,9930211,Nihonbashi,9930213,#ef5ba1
+234,9930213,35.681688,99302,Toei Asakusa Line,139.775721,Nihonbashi,Takara cho,9930212,Ningyo-cho,9930214,#ef5ba1
+235,9930214,35.686307,99302,Toei Asakusa Line,139.782285,Ningyo-cho,Nihonbashi,9930213,East Japan Bridge,9930215,#ef5ba1
+236,9930215,35.692126,99302,Toei Asakusa Line,139.784821,East Japan Bridge,Ningyo-cho,9930214,Asakusabashi,9930216,#ef5ba1
+237,9930216,35.697451,99302,Toei Asakusa Line,139.786305,Asakusabashi,East Japan Bridge,9930215,Kuramae,9930217,#ef5ba1
+238,9930217,35.703236,99302,Toei Asakusa Line,139.790931,Kuramae,Asakusabashi,9930216,Asakusa,9930218,#ef5ba1
+239,9930218,35.709461,99302,Toei Asakusa Line,139.79697,Asakusa,Kuramae,9930217,Main Office Azumabashi,9930219,#ef5ba1
+240,9930219,35.70858,99302,Toei Asakusa Line,139.804624,Main Office Azumabashi,Asakusa,9930218,Oshigami (before the sky tree),9930220,#ef5ba1
+241,9930220,35.710702,99302,Toei Asakusa Line,139.812935,Oshigami (before the sky tree),Main Office Azumabashi,9930219,,0,#ef5ba1
+242,9930301,35.633272,99303,Toei Mita Line,139.7155,Meguro,,0,Shirokanedai,9930302,#0080c6
+243,9930302,35.637917,99303,Toei Mita Line,139.726133,Shirokanedai,Meguro,9930301,Shinkan Takanawa,9930303,#0080c6
+244,9930303,35.642903,99303,Toei Mita Line,139.734104,Shinkan Takanawa,Shirokanedai,9930302,Mita,9930304,#0080c6
+245,9930304,35.64818,99303,Toei Mita Line,139.748775,Mita,Shinkan Takanawa,9930303,Shibakoen,9930305,#0080c6
+246,9930305,35.654074,99303,Toei Mita Line,139.749824,Shibakoen,Mita,9930304,The gate,9930306,#0080c6
+247,9930306,35.661215,99303,Toei Mita Line,139.751535,The gate,Shibakoen,9930305,Uchisaiwasemachi,9930307,#0080c6
+248,9930307,35.66975,99303,Toei Mita Line,139.75561,Uchisaiwasemachi,The gate,9930306,Hibiya,9930308,#0080c6
+249,9930308,35.676036,99303,Toei Mita Line,139.759998,Hibiya,Uchisaiwasemachi,9930307,Otemachi,9930309,#0080c6
+250,9930309,35.684856,99303,Toei Mita Line,139.762959,Otemachi,Hibiya,9930308,Jimbocho,9930310,#0080c6
+251,9930310,35.695492,99303,Toei Mita Line,139.75812,Jimbocho,Otemachi,9930309,Aqueduct,9930311,#0080c6
+252,9930311,35.703398,99303,Toei Mita Line,139.75516,Aqueduct,Jimbocho,9930310,Kasuga,9930312,#0080c6
+253,9930312,35.709598,99303,Toei Mita Line,139.75325,Kasuga,Aqueduct,9930311,Hakusan,9930313,#0080c6
+254,9930313,35.721408,99303,Toei Mita Line,139.752136,Hakusan,Kasuga,9930312,Sengoku,9930314,#0080c6
+255,9930314,35.727957,99303,Toei Mita Line,139.744792,Sengoku,Hakusan,9930313,Sugamo,9930315,#0080c6
+256,9930315,35.733502,99303,Toei Mita Line,139.738519,Sugamo,Sengoku,9930314,Nishikamo,9930316,#0080c6
+257,9930316,35.743508,99303,Toei Mita Line,139.728712,Nishikamo,Sugamo,9930315,Shinbashi,9930317,#0080c6
+258,9930317,35.748785,99303,Toei Mita Line,139.720101,Shinbashi,Nishikamo,9930316,Itabashi Ward Office,9930318,#0080c6
+259,9930318,35.751284,99303,Toei Mita Line,139.710102,Itabashi Ward Office,Shinbashi,9930317,Itabashi Honcho,9930319,#0080c6
+260,9930319,35.761339,99303,Toei Mita Line,139.705535,Itabashi Honcho,Itabashi Ward Office,9930318,This lotusuma,9930320,#0080c6
+261,9930320,35.768782,99303,Toei Mita Line,139.702324,This lotusuma,Itabashi Honcho,9930319,Shimura Sakagami,9930321,#0080c6
+262,9930321,35.775725,99303,Toei Mita Line,139.69538,Shimura Sakagami,This lotusuma,9930320,Shimura 3-chome,9930322,#0080c6
+263,9930322,35.777391,99303,Toei Mita Line,139.685937,Shimura 3-chome,Shimura Sakagami,9930321,lotus root,9930323,#0080c6
+264,9930323,35.784335,99303,Toei Mita Line,139.678993,lotus root,Shimura 3-chome,9930322,Nishidai,9930324,#0080c6
+265,9930324,35.78699,99303,Toei Mita Line,139.673971,Nishidai,lotus root,9930323,Takashimairaira,9930325,#0080c6
+266,9930325,35.789056,99303,Toei Mita Line,139.661216,Takashimairaira,Nishidai,9930324,Shin Takeshimairing,9930326,#0080c6
+267,9930326,35.790189,99303,Toei Mita Line,139.654275,Shin Takeshimairing,Takashimairaira,9930325,Nishi Takashimairaira,9930327,#0080c6
+268,9930327,35.791833,99303,Toei Mita Line,139.64594,Nishi Takashimairaira,Shin Takeshimairing,9930326,,0,#0080c6
+269,9930401,35.68869,99304,Toei Shinjuku Line,139.698812,Shinjuku,,0,Shinjuku 3-chome,9930402,#6dc067
+270,9930402,35.690616,99304,Toei Shinjuku Line,139.706271,Shinjuku 3-chome,Shinjuku,9930401,Akebono Bridge,9930403,#6dc067
+271,9930403,35.692402,99304,Toei Shinjuku Line,139.722881,Akebono Bridge,Shinjuku 3-chome,9930402,Ichigaya,9930404,#6dc067
+272,9930404,35.692594,99304,Toei Shinjuku Line,139.735794,Ichigaya,Akebono Bridge,9930403,Kudanshita,9930405,#6dc067
+273,9930405,35.695589,99304,Toei Shinjuku Line,139.751948,Kudanshita,Ichigaya,9930404,Jimbocho,9930406,#6dc067
+274,9930406,35.695966,99304,Toei Shinjuku Line,139.757606,Jimbocho,Kudanshita,9930405,Ogawamachi,9930407,#6dc067
+275,9930407,35.695487,99304,Toei Shinjuku Line,139.767551,Ogawamachi,Jimbocho,9930406,Iwamoto cho,9930408,#6dc067
+276,9930408,35.695534,99304,Toei Shinjuku Line,139.775866,Iwamoto cho,Ogawamachi,9930407,Maki Yokoyama,9930409,#6dc067
+277,9930409,35.69212,99304,Toei Shinjuku Line,139.782768,Maki Yokoyama,Iwamoto cho,9930408,Hamacho,9930410,#6dc067
+278,9930410,35.688516,99304,Toei Shinjuku Line,139.788154,Hamacho,Maki Yokoyama,9930409,Morishita,9930411,#6dc067
+279,9930411,35.68796,99304,Toei Shinjuku Line,139.797042,Morishita,Hamacho,9930410,Kikugawa,9930412,#6dc067
+280,9930412,35.688379,99304,Toei Shinjuku Line,139.806016,Kikugawa,Morishita,9930411,Sumiyoshi,9930413,#6dc067
+281,9930413,35.689073,99304,Toei Shinjuku Line,139.815681,Sumiyoshi,Kikugawa,9930412,Nishioido,9930414,#6dc067
+282,9930414,35.689349,99304,Toei Shinjuku Line,139.826206,Nishioido,Sumiyoshi,9930413,Oshima,9930415,#6dc067
+283,9930415,35.689905,99304,Toei Shinjuku Line,139.83565,Oshima,Nishioido,9930414,Higashi Oshima,9930416,#6dc067
+284,9930416,35.690355,99304,Toei Shinjuku Line,139.845963,Higashi Oshima,Oshima,9930415,Funabori,9930417,#6dc067
+285,9930417,35.683795,99304,Toei Shinjuku Line,139.864258,Funabori,Higashi Oshima,9930416,Iino Man,9930418,#6dc067
+286,9930418,35.686055,99304,Toei Shinjuku Line,139.882934,Iino Man,Funabori,9930417,Mizue,9930419,#6dc067
+287,9930419,35.693318,99304,Toei Shinjuku Line,139.89761,Mizue,Iino Man,9930418,Shinozaki,9930420,#6dc067
+288,9930420,35.706017,99304,Toei Shinjuku Line,139.903698,Shinozaki,Mizue,9930419,Honhachiman,9930421,#6dc067
+289,9930421,35.722929,99304,Toei Shinjuku Line,139.926628,Honhachiman,Shinozaki,9930420,,0,#6dc067
