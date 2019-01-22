@@ -1,0 +1,8 @@
+{
+  "short_name": "Tokyo Metro Markov Chains",
+  "name": "Tokyo Metro Markov Chains",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
