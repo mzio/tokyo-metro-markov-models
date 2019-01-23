@@ -17,8 +17,6 @@ export default class Map extends React.Component {
   }
 
   componentDidMount() {
-    // var map = new mapboxgl.Map(this.state.viewport);
-    // this.container = map.getCanvasContainer();
     this.map = new mapboxgl.Map(this.state.viewport);
     this.setState({ rendered: true });
   }
