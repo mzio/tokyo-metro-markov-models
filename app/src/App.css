@@ -31,8 +31,18 @@
   }
 }
 
-.bsNavbar {
-  height: 6em;
+.navbar {
+  min-height: 6em;
+}
+
+.navbar-dark {
+  font-family: "Roboto Mono", monospace;
+  font-size: 1em;
+  color: #fff;
+  background-color: rgb(52, 58, 64, 0.8) !important;
+}
+
+.bg-Navbar {
   font-family: "Roboto Mono", monospace;
   font-size: 1em;
   color: #fff;
@@ -51,7 +61,31 @@
   margin-left: 1rem;
 }
 
-@media only screen and (max-device-width: 480p) {
+.modal-content {
+  background-color: rgb(52, 58, 64, 0.95);
+  font-family: "Roboto Mono", monospace;
+  color: #fff;
+}
+
+.modal-header {
+  border: none;
+}
+
+.modal-header span {
+  color: #fff;
+}
+
+a {
+  color: rgba(255, 255, 255, 0.75);
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* @media only screen and (max-device-width: 480p) {
   .bsNavbar {
     height: 50em;
     font-family: "Roboto Mono", monospace;
@@ -63,4 +97,4 @@
     margin-right: 1rem;
     margin: 1rem;
   }
-}
+} */

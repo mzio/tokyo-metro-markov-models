@@ -1,12 +1,8 @@
 import React, { Component } from "react";
-// import logo from "./logo.svg";
-import "./App.css";
-
-// import D3 from "./components/D3-old";
 import mapboxgl from "mapbox-gl";
-
 import Navigation from "./components/Navigation";
 import Map from "./components/Map";
+import "./App.css";
 
 require("dotenv").config();
 
@@ -58,7 +54,7 @@ class App extends Component {
     // this.setState({ start: !this.state.start });
     if (this.state.startButtonText === "Start") {
       this.setState({ startButtonText: "Pause" });
-      this.timer = setInterval(updateSecs, 1);
+      this.timer = setInterval(updateSecs, 10);
     } else {
       this.setState({ startButtonText: "Start" });
       clearInterval(this.timer);
@@ -71,14 +67,13 @@ class App extends Component {
       center: [139.7586, 35.6909],
       zoom: 11.5,
       line: this.state.line,
-      hour: parseInt(this.state.time.substring(0, 2), 10)
+      hour: parseInt(this.state.time.substring(0, 2), 10),
+      startButtonText: this.state.startButtonText
     };
     return (
       <div>
         <div id="map" />
-        {/* <D3 line={this.state.line} /> */}
         <Map {...mapboxProps} />
-        {/* <div id="map" /> */}
         <Navigation
           handleChange={this.handleLineSelect}
           handleStartClick={this.handleStart}
