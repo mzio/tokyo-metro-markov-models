@@ -93,7 +93,7 @@ export default class D3 extends React.Component {
         });
     }
 
-    json("/lines_nodes.json").then(function(data) {
+    json(process.env.PUBLIC_URL + "/lines_nodes.json").then(function(data) {
       self.setState({ nodes: data });
       if (self.props.line !== "all") {
         loadNodes(self.container, data[self.props.line]);
@@ -280,8 +280,7 @@ export default class D3 extends React.Component {
 
       self.timer = setInterval(moveParticles, 360);
     }
-    json("/lines_links.json").then(function(data) {
-      console.log("data_loaded");
+    json(process.env.PUBLIC_URL + "/lines_links.json").then(function(data) {
       var line_links = data[self.props.hour];
       if (self.props.line !== "all") {
         loadLinks(self.container, line_links[self.props.line], self.props.line);
