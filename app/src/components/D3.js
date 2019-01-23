@@ -3,12 +3,9 @@ import { select, selectAll } from "d3-selection";
 import "d3-selection-multi";
 import { geoMercator, geoPath } from "d3-geo";
 import { json } from "d3-fetch";
-import { queue } from "d3-queue";
-import { extent, sum } from "d3-array";
+import { sum } from "d3-array";
 import { easePoly } from "d3-ease";
 import { transition } from "d3-transition";
-import { scaleLinear } from "d3-scale";
-import { timer } from "d3-timer";
 
 export default class D3 extends React.Component {
   constructor(props) {
@@ -48,6 +45,10 @@ export default class D3 extends React.Component {
       this.updateLinks();
       this.updateNodes();
     }
+
+    // if (this.props.buttonText === "Start") {
+    //   selectAll("circles.dot").interrupt();
+    // }
   }
 
   getD3() {
@@ -135,7 +136,7 @@ export default class D3 extends React.Component {
               return d.color;
             },
             "stroke-width": 5,
-            "stroke-opacity": 0,
+            "stroke-opacity": 0.075,
             "z-index": 1000
           })
           .attr("d", function(d) {
@@ -171,16 +172,10 @@ export default class D3 extends React.Component {
 
             return "M" + x0 + "," + y0 + "L" + x1 + "," + y1;
           });
-      } catch (e) {
-        // console.log(e);
-        // console.log(self.state.nodes);
-        // console.log(line);
-      }
+      } catch (e) {}
     }
 
     function loadParticles(svg, data, line) {
-      const classLine = line.replace(/\s+/g, "");
-
       const linkTotal = sum(data, function(d) {
         return d.value;
       });
@@ -189,16 +184,15 @@ export default class D3 extends React.Component {
 
       var selectedPaths = [];
       try {
-        var number = Math.max(Math.floor(linkTotal / 10), 1);
+        var number = Math.max(Math.floor(linkTotal / 40), 1);
       } catch (e) {
         console.log(e);
       }
 
       for (let i = 0; i < number; i++) {
         // Pick initial station path
-
         var path = paths[Math.floor(Math.random() * paths.length)];
-        selectedPaths.push({ ix: i, path: path });
+        selectedPaths.push({ ix: i, path: path, opacity: 1 });
       }
 
       var nextStates = {};
@@ -209,13 +203,13 @@ export default class D3 extends React.Component {
         .enter()
         .append("circle")
         .classed("dot", true)
-        .attr("r", 5)
+        .attr("r", 2)
         .styles({
           fill: path.color,
-          "fill-opacity": 0.5,
-          stroke: "#004d60",
-          "stroke-width": 1,
-          "stroke-opacity": 0.5,
+          "fill-opacity": 1,
+          stroke: path.color,
+          "stroke-width": 6,
+          "stroke-opacity": 0.3,
           "z-index": 1000
         })
         .attrs({
@@ -226,33 +220,90 @@ export default class D3 extends React.Component {
             return d.path.start[1];
           }
         })
+        // .style("filter", "url(#glow)")
         .each(function(d) {
-          nextStates[d.ix] = [d.path.end[0], d.path.end[1], d.path.target];
+          nextStates[d.ix] = [
+            d.path.end[0],
+            d.path.end[1],
+            d.path.target,
+            d.opacity,
+            1 // future opacity
+          ];
         });
+
+      // Taken from Nadieh Bremer's super cool D3 glow thing (https://www.visualcinnamon.com/2016/06/glow-filter-d3-visualization.html)
+      // Container for the gradients
+      var defs = svg.append("defs");
+
+      // Filter for the outside glow
+      var filter = defs.append("filter").attr("id", "glow");
+      filter
+        .append("feGaussianBlur")
+        .attr("stdDeviation", "3.5")
+        .attr("result", "coloredBlur");
+      var feMerge = filter.append("feMerge");
+      feMerge.append("feMergeNode").attr("in", "coloredBlur");
+      feMerge.append("feMergeNode").attr("in", "SourceGraphic");
+
+      //   // Apply to your element(s)
+      //   selectAll(".dot").style("filter", "url(#glow)");
 
       function moveParticles() {
         circles
           .transition()
+          .duration(0)
+          .styles({
+            "fill-opacity": function(d) {
+              return nextStates[d.ix][3];
+            },
+            "stroke-opacity": function(d) {
+              return nextStates[d.ix][3] - 0.7;
+            }
+          })
+          .transition()
           .ease(easePoly)
-          .duration(250)
+          .duration(360)
           .attr("cx", function(d) {
             return nextStates[d.ix][0];
           })
           .attr("cy", function(d) {
             return nextStates[d.ix][1];
           })
+
           .each(function(d) {
             const targetPaths = self.paths[line].filter(o => {
               return o.source === nextStates[d.ix][2];
             });
+            var futureOpacity = nextStates[d.ix][4];
             if (targetPaths.length > 0) {
               const path =
                 targetPaths[Math.floor(Math.random() * targetPaths.length)];
-              nextStates[d.ix] = [path.end[0], path.end[1], path.target];
+              if (futureOpacity === 1) {
+                nextStates[d.ix] = [
+                  path.end[0],
+                  path.end[1],
+                  path.target,
+                  1,
+                  1
+                ];
+              } else {
+                nextStates[d.ix] = [
+                  path.end[0],
+                  path.end[1],
+                  path.target,
+                  0,
+                  1
+                ];
+              }
+            } else {
+              var path = paths[Math.floor(Math.random() * paths.length)];
+              //   console.log(path);
+              nextStates[d.ix] = [path.end[0], path.end[1], path.target, 0, 0];
             }
           });
       }
-      setInterval(moveParticles, 250);
+
+      self.timer = setInterval(moveParticles, 360);
     }
     json("/lines_links.json").then(function(data) {
       console.log("data_loaded");
