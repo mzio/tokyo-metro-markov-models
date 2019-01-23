@@ -30,10 +30,7 @@ export default class D3 extends React.Component {
     this.updateLinks();
   }
 
-  // Want to do component did update with previous props, if the hour changed, launch queue with different things, just load the new data
   componentDidUpdate(prevProps) {
-    // this.svg.selectAll("circle.dot").remove();
-    // this.loadD3();
     if (prevProps.line !== this.props.line) {
       selectAll("svg").remove();
       this.updateNodes();
@@ -45,10 +42,6 @@ export default class D3 extends React.Component {
       this.updateLinks();
       this.updateNodes();
     }
-
-    // if (this.props.buttonText === "Start") {
-    //   selectAll("circles.dot").interrupt();
-    // }
   }
 
   getD3() {
@@ -220,7 +213,6 @@ export default class D3 extends React.Component {
             return d.path.start[1];
           }
         })
-        // .style("filter", "url(#glow)")
         .each(function(d) {
           nextStates[d.ix] = [
             d.path.end[0],
@@ -230,23 +222,6 @@ export default class D3 extends React.Component {
             1 // future opacity
           ];
         });
-
-      // Taken from Nadieh Bremer's super cool D3 glow thing (https://www.visualcinnamon.com/2016/06/glow-filter-d3-visualization.html)
-      // Container for the gradients
-      var defs = svg.append("defs");
-
-      // Filter for the outside glow
-      var filter = defs.append("filter").attr("id", "glow");
-      filter
-        .append("feGaussianBlur")
-        .attr("stdDeviation", "3.5")
-        .attr("result", "coloredBlur");
-      var feMerge = filter.append("feMerge");
-      feMerge.append("feMergeNode").attr("in", "coloredBlur");
-      feMerge.append("feMergeNode").attr("in", "SourceGraphic");
-
-      //   // Apply to your element(s)
-      //   selectAll(".dot").style("filter", "url(#glow)");
 
       function moveParticles() {
         circles
