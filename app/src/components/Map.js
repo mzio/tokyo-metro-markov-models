@@ -28,7 +28,12 @@ export default class Map extends React.Component {
       return (
         <div>
           <div id="map" />
-          <D3 map={this.map} line={this.props.line} hour={this.props.hour} />
+          <D3
+            map={this.map}
+            line={this.props.line}
+            hour={this.props.hour}
+            buttonText={this.props.startButtonText}
+          />
         </div>
       );
     } else {
