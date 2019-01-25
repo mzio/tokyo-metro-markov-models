@@ -50,14 +50,18 @@ export default class Navigation extends React.Component {
               at every hour.
             </p>
             <p>
-              See <a href="#">[here]</a> for more info. Briefly, Foursquare
-              check-in data was filtered for subway stations and
-              cross-referenced with station geocoordinates belonging to the
-              Tokyo Metro and Toei Subway subway system lines. From only knowing
-              check-in data, directionality was inferred with transition
-              matrices for each line based on the ratio of station to overall
-              line check-ins. To try to capture possible changes in distribution
-              over the day, matrices were constructed for each hour.
+              See{" "}
+              <a href="https://michaelzhang.xyz/posts/006.1-tokyo_metro_markov-tech_post/">
+                [here]
+              </a>{" "}
+              for more info. Briefly, Foursquare check-in data was filtered for
+              subway stations and cross-referenced with station geocoordinates
+              belonging to the Tokyo Metro and Toei Subway subway system lines.
+              From only knowing check-in data, directionality was inferred with
+              transition matrices for each line based on the ratio of station to
+              overall line check-ins. To try to capture possible changes in
+              distribution over the day, matrices were constructed for each
+              hour.
             </p>
             <p>
               Final note: as part of a side project creation thing this is
@@ -86,7 +90,7 @@ export default class Navigation extends React.Component {
             </p>
             <p>
               See more projects / get contact info to report bugs{" "}
-              <a href="https://michaelzhang.xyz/">[here]</a>.
+              <a href="https://michaelzhang.xyz/projects/">[here]</a>.
             </p>
           </Modal.Body>
         </Modal>
