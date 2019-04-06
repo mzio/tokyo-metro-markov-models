@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Tokyo Metro Markov Models
 
-Created as a side project related to two things I'm a fan of: the Tokyo subway system and Markov models.
+A map and side project related to two things I'm a fan of: the Tokyo subway system and Markov models.
 
 **See the actual project**:
 
@@ -18,6 +18,4 @@ Created as a side project related to two things I'm a fan of: the Tokyo subway s
 - React - Frontend design
 - Mapbox GL - Map background
 
-## Learn More about Create React App
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
