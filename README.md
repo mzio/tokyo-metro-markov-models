@@ -1,6 +1,6 @@
 # Tokyo Metro Markov Models
 
-!['map demo'](demo.gif)
+!['map demo'](demo_crop.gif)
 A map and side project related to two things I'm a fan of: the Tokyo subway system and Markov models.
 
 **See the actual project**:
